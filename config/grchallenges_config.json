@@ -1,0 +1,82 @@
+{
+  "run_label": "goodreads_v2_preflight",
+  "output": {
+    "year": 2025,
+    "season": "Fall",
+    "path": "./data/{year}/{season}.json"
+  },
+  "csv_debug_path": "./data/debug_latest.csv",
+  "scrape": {
+    "respect_delay_ms": 600,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0 Safari/537.36",
+    "save_html": false,
+    "html_out_dir": "./requirements/fixtures/html"
+  },
+  "achievements": [
+  {
+    "enabled": true,
+    "name": "Community Picks",
+    "url": "https://www.goodreads.com/blog/show/2957?ref=gradp_communitypick",
+    "expected_min": 120,
+    "expected_max": 160,
+    "release_date": "2025-09-15"
+  },
+  {
+    "enabled": true,
+    "name": "Hispanic Heritage",
+    "url": "https://www.goodreads.com/blog/show/2958?ref=gradp_hispanicheritage",
+    "expected_min": 100,
+    "expected_max": 130,
+    "release_date": "2025-09-15"
+  },
+  {
+    "enabled": true,
+    "name": "Spine Tinglers",
+    "url": "https://www.goodreads.com/blog/show/3008?ref=gradp_spinetinglers",
+    "expected_min": 50,
+    "expected_max": 110,
+    "release_date": "2025-09-15"
+  },
+  {
+    "enabled": true,
+    "name": "Heart Warmers",
+    "url": "https://www.goodreads.com/blog/show/3001?ref=gradp_heartwarmers",
+    "expected_min": 110,
+    "expected_max": 130,
+    "release_date": "2025-09-30"
+  },
+  {
+    "enabled": true,
+    "name": "Fiction Favs",
+    "url": "https://www.goodreads.com/blog/show/2980?ref=gradp_fictionfaves",
+    "expected_min": 90,
+    "expected_max": 140,
+    "release_date": "2025-08-05"
+  },
+  {
+    "enabled": true,
+    "name": "Memorable Memoirs",
+    "url": "https://www.goodreads.com/blog/show/2983?ref=gradp_memorablememoirs",
+    "expected_min": 90,
+    "expected_max": 110,
+    "release_date": "2025-08-01"
+  },
+   {
+    "enabled": true,
+    "name": "Native Voices",
+    "url": "https://www.goodreads.com/blog/show/2956?ref=gradp_nativevoices",
+    "expected_min": 115,
+    "expected_max": 140,
+    "release_date": "2025-11-01"
+  },
+   {
+    "enabled": true,
+    "name": "Bite-Size Books",
+    "url": "https://www.goodreads.com/blog/show/3010?ref=gradp_bitesizebooks",
+    "expected_min": 90,
+    "expected_max": 110,
+    "release_date": "2025-11-01"
+  }
+]
+
+}

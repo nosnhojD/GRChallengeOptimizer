@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html lang="en" data-theme="dark">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Goodreads Challenge • Viewer (v2)</title>
+  <style>
+    :root{
+      --bg:#0b0c10;--panel:#111217;--text:#e6e6e6;--muted:#a9b0bd;
+      --accent:#7c3aed;--accent-2:#10b981;--border:#1f2430;--chip:#1a1f29;--dup:#3f6212;
+      --danger:#dc2626;--ok:#16a34a;--warn:#d97706;--highlight:#2a2f3a
+    }
+    [data-theme="light"]{
+      --bg:#f6f7fb;--panel:#fff;--text:#1f2937;--muted:#6b7280;
+      --accent:#6d28d9;--accent-2:#059669;--border:#e5e7eb;--chip:#eef2ff;--dup:#84cc16;
+      --danger:#b91c1c;--ok:#16a34a;--warn:#b45309;--highlight:#fffbe6
+    }
+    html,body{height:100%}
+    body{margin:0;background:var(--bg);color:var(--text);font:14px/1.6 system-ui,-apple-system,Segoe UI,Roboto,Ubuntu,Cantarell,Noto Sans,Arial}
+    .container{max-width:1200px;margin:0 auto;padding:24px 16px 80px}
+    header{position:sticky;top:0;z-index:5;background:linear-gradient(180deg,var(--bg) 75%,transparent);border-bottom:1px solid var(--border)}
+    header .bar{max-width:1200px;margin:0 auto;padding:12px 16px;display:flex;gap:12px;align-items:center;justify-content:space-between}
+    h1{margin:0;font-weight:700;font-size:18px;letter-spacing:.2px}
+    .controls{display:flex;flex-wrap:wrap;gap:8px;align-items:center}
+    select,button,input[type="text"]{background:var(--panel);color:var(--text);border:1px solid var(--border);border-radius:10px;padding:8px 10px}
+    button{cursor:pointer}
+    .pill{display:inline-flex;gap:6px;align-items:center;background:var(--chip);padding:4px 8px;border-radius:999px;border:1px solid var(--border);font-size:12px}
+    .grid{margin-top:12px;border:1px solid var(--border);border-radius:14px;overflow:hidden}
+    table{width:100%;border-collapse:collapse}
+    thead{background:var(--panel)}
+    th,td{padding:10px;border-bottom:1px solid var(--border);vertical-align:top}
+    tbody tr.dupe{background:linear-gradient(90deg, rgba(60,130,60,.12), transparent 35%)}
+    .ach{display:flex;flex-wrap:wrap;gap:6px}
+    .ach .pill{background:transparent;border-color:var(--border)}
+    .muted{color:var(--muted)}
+    .footer{margin-top:10px;display:flex;gap:12px;align-items:center;justify-content:space-between}
+    .badge{padding:2px 8px;border-radius:999px;border:1px solid var(--border);font-size:12px}
+    .right{display:flex;gap:8px;align-items:center}
+    .filters{display:flex;flex-wrap:wrap;gap:8px;align-items:center}
+    .hidden{display:none}
+    .link{color:var(--accent)}
+    .chipbtn{border-radius:999px;border:1px solid var(--border);padding:6px 10px;background:var(--panel)}
+    .chipbtn.active{outline:2px solid var(--accent)}
+  </style>
+</head>
+<body>
+  <header>
+    <div class="bar">
+      <h1>Goodreads Challenge • Viewer</h1>
+      <div class="controls">
+        <label>Year
+          <select id="yearSel"></select>
+        </label>
+        <label>Season
+          <select id="seasonSel">
+            <option value="winter">winter</option>
+            <option value="spring">spring</option>
+            <option value="summer">summer</option>
+            <option value="fall">fall</option>
+          </select>
+        </label>
+        <button id="loadBtn">Load</button>
+        <input id="searchBox" type="text" placeholder="Search title/author…" />
+        <label title="Show only books that appear in multiple lists">
+          <input type="checkbox" id="dupesOnlyChk" /> Duplicates only
+        </label>
+        <label>Sort
+          <select id="sortSel">
+            <option value="title-asc">Title ↑</option>
+            <option value="title-desc">Title ↓</option>
+            <option value="author-asc">Author ↑</option>
+            <option value="author-desc">Author ↓</option>
+            <option value="achcnt-desc">#Lists ↓</option>
+            <option value="achcnt-asc">#Lists ↑</option>
+          </select>
+        </label>
+        <button id="themeBtn" title="Toggle theme">Theme</button>
+      </div>
+    </div>
+  </header>
+
+  <div class="container">
+    <div id="meta" class="muted">—</div>
+
+    <div class="filters">
+      <details id="achFilter" class="chipfilter">
+        <summary class="chipbtn">Filter by list (Achievements)</summary>
+        <div id="achFilterWrap" style="margin-top:8px;display:flex;flex-wrap:wrap;gap:8px;"></div>
+      </details>
+      <button id="clearFiltersBtn" class="chipbtn">Clear filters</button>
+    </div>
+
+    <div class="grid">
+      <table id="tbl">
+        <thead>
+          <tr>
+            <th style="width:32px">#</th>
+            <th>Title</th>
+            <th>Author</th>
+            <th>Achievements</th>
+            <th>Link</th>
+          </tr>
+        </thead>
+        <tbody id="tbody"></tbody>
+      </table>
+    </div>
+    <div class="footer">
+      <div id="stats" class="badge">—</div>
+      <div class="right">
+        <span class="muted">Data auto-loads from <code>/data/{year}/{season}.json</code></span>
+      </div>
+    </div>
+  </div>
+
+  <script src="./grchallenges_viewer.js"></script>
+</body>
+</html>

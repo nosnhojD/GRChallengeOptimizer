@@ -1,0 +1,58 @@
+{
+  "run_label": "goodreads_v2_preflight",
+  "output": {
+    "year": 2025,
+    "season": "summer",
+    "path": "./data/{year}/{season}.json"
+  },
+  "csv_debug_path": "./data/debug_latest.csv",
+  "scrape": {
+    "respect_delay_ms": 600,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0 Safari/537.36",
+    "save_html": false,
+    "html_out_dir": "./requirements/fixtures/html"
+  },
+  "achievements": [
+  {
+    "enabled": true,
+    "name": "Debut Darlings",
+    "url": "https://www.goodreads.com/blog/show/2978?ref=gradp_debutdarlings",
+    "expected_min": 50,
+    "expected_max": 100,
+    "release_date": "2025-08-01"
+  },
+  {
+    "enabled": true,
+    "name": "Challenge Faves",
+    "url": "https://www.goodreads.com/blog/show/2937-the-144-most-read-books-of-the-2025-reading-challenge-so-far",
+    "expected_min": 120,
+    "expected_max": 180,
+    "release_date": "2025-07-01"
+  },
+  {
+    "enabled": true,
+    "name": "Poolside Puzzlers",
+    "url": "https://www.goodreads.com/blog/show/2938?ref=gradp_poolsidepuzzlers",
+    "expected_min": 50,
+    "expected_max": 110,
+    "release_date": "2025-07-01"
+  },
+  {
+    "enabled": true,
+    "name": "Chart Toppers",
+    "url": "https://www.goodreads.com/blog/show/2918?ref=gradp_charttoppers",
+    "expected_min": 40,
+    "expected_max": 80,
+    "release_date": "2025-07-08"
+  },
+  {
+    "enabled": true,
+    "name": "Acclaimed Titles",
+    "url": "https://www.goodreads.com/blog/show/2974?ref=gradp_acclaimedtitles",
+    "expected_min": 90,
+    "expected_max": 140,
+    "release_date": "2025-07-15"
+  }
+]
+
+}

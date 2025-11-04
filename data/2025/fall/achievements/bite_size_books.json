@@ -1,0 +1,612 @@
+{
+  "generated_at": "2025-11-02T01:30:26Z",
+  "season": {
+    "year": "2025",
+    "name": "Fall"
+  },
+  "name": "Bite-Size Books",
+  "source_url": "https://www.goodreads.com/blog/show/3010?ref=gradp_bitesizebooks",
+  "book_count": 100,
+  "books": [
+    {
+      "title": "Seascraper",
+      "author": "Benjamin Wood",
+      "link": "https://www.goodreads.com/book/show/232428461",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1746000385i/232428461.jpg"
+    },
+    {
+      "title": "Dominion",
+      "author": "Addie E. Citchens",
+      "link": "https://www.goodreads.com/book/show/219743601",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1735251466i/219743601.jpg"
+    },
+    {
+      "title": "The Hounding",
+      "author": "Xenobe Purvis",
+      "link": "https://www.goodreads.com/book/show/217388147",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1727253986i/217388147.jpg"
+    },
+    {
+      "title": "Little World",
+      "author": "Josephine Rowe",
+      "link": "https://www.goodreads.com/book/show/217043721",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1737849860i/217043721.jpg"
+    },
+    {
+      "title": "Open, Heaven",
+      "author": "Seán Hewitt",
+      "link": "https://www.goodreads.com/book/show/216522629",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1721764280i/216522629.jpg"
+    },
+    {
+      "title": "The Year of the Wind",
+      "author": "Karina Pacheco Medrano",
+      "link": "https://www.goodreads.com/book/show/222376594",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1747427993i/222376594.jpg"
+    },
+    {
+      "title": "Audition for the Fox",
+      "author": "Martin Cahill",
+      "link": "https://www.goodreads.com/book/show/228022844",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1750697361i/228022844.jpg"
+    },
+    {
+      "title": "The Unworthy",
+      "author": "Agustina Bazterrica",
+      "link": "https://www.goodreads.com/book/show/214151601",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1722354275i/214151601.jpg"
+    },
+    {
+      "title": "The Summer War",
+      "author": "Naomi Novik",
+      "link": "https://www.goodreads.com/book/show/222683998",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1747927269i/222683998.jpg"
+    },
+    {
+      "title": "Run for the Hills",
+      "author": "Kevin    Wilson",
+      "link": "https://www.goodreads.com/book/show/218671843",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1727261499i/218671843.jpg"
+    },
+    {
+      "title": "Tantrum",
+      "author": "Rachel Eve Moulton",
+      "link": "https://www.goodreads.com/book/show/221251788",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1733280633i/221251788.jpg"
+    },
+    {
+      "title": "Discontent",
+      "author": "Beatriz Serrano",
+      "link": "https://www.goodreads.com/book/show/222828632",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1751989709i/222828632.jpg"
+    },
+    {
+      "title": "The Book of I",
+      "author": "David Greig",
+      "link": "https://www.goodreads.com/book/show/225166002",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1745570208i/225166002.jpg"
+    },
+    {
+      "title": "A Guardian and a Thief",
+      "author": "Megha Majumdar",
+      "link": "https://www.goodreads.com/book/show/232207672",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1760973092i/232207672.jpg"
+    },
+    {
+      "title": "The River Has Roots",
+      "author": "Amal El-Mohtar",
+      "link": "https://www.goodreads.com/book/show/211004176",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1719522277i/211004176.jpg"
+    },
+    {
+      "title": "Small Boat",
+      "author": "Vincent Delecroix",
+      "link": "https://www.goodreads.com/book/show/228394781",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1741272009i/228394781.jpg"
+    },
+    {
+      "title": "Exiles",
+      "author": "Mason Coile",
+      "link": "https://www.goodreads.com/book/show/222683916",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1737856070i/222683916.jpg"
+    },
+    {
+      "title": "Midnight Timetable: A Novel in Ghost Stories",
+      "author": "Bora Chung",
+      "link": "https://www.goodreads.com/book/show/223296389",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1743273023i/223296389.jpg"
+    },
+    {
+      "title": "These Memories Do Not Belong to Us",
+      "author": "Yiming Ma",
+      "link": "https://www.goodreads.com/book/show/221452836",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1731410407i/221452836.jpg"
+    },
+    {
+      "title": "Automatic Noodle",
+      "author": "Annalee Newitz",
+      "link": "https://www.goodreads.com/book/show/217388015",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1731705824i/217388015.jpg"
+    },
+    {
+      "title": "Fire Exit",
+      "author": "Morgan Talty",
+      "link": "https://www.goodreads.com/book/show/197789783",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1695910751i/197789783.jpg"
+    },
+    {
+      "title": "Land of Milk and Honey",
+      "author": "C Pam Zhang",
+      "link": "https://www.goodreads.com/book/show/101673225",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1683827919i/101673225.jpg"
+    },
+    {
+      "title": "Our Wives Under the Sea",
+      "author": "Julia Armfield",
+      "link": "https://www.goodreads.com/book/show/58724816",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1636047905i/58724816.jpg"
+    },
+    {
+      "title": "Assembly",
+      "author": "Natasha   Brown",
+      "link": "https://www.goodreads.com/book/show/56646330",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1615497305i/56646330.jpg"
+    },
+    {
+      "title": "Minor Detail",
+      "author": "Adania Shibli",
+      "link": "https://www.goodreads.com/book/show/52974301",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1698586415i/52974301.jpg"
+    },
+    {
+      "title": "Open Throat",
+      "author": "Henry Hoke",
+      "link": "https://www.goodreads.com/book/show/62039259",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1667852289i/62039259.jpg"
+    },
+    {
+      "title": "The Gurkha and the Lord of Tuesday",
+      "author": "Saad Z. Hossain",
+      "link": "https://www.goodreads.com/book/show/43521119",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1549482803i/43521119.jpg"
+    },
+    {
+      "title": "A Minor Chorus",
+      "author": "Billy-Ray Belcourt",
+      "link": "https://www.goodreads.com/book/show/60165417",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1660366396i/60165417.jpg"
+    },
+    {
+      "title": "The Cemetery of Untold Stories",
+      "author": "Julia Alvarez",
+      "link": "https://www.goodreads.com/book/show/195820829",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1693339977i/195820829.jpg"
+    },
+    {
+      "title": "Orbital",
+      "author": "Samantha Harvey",
+      "link": "https://www.goodreads.com/book/show/123136728",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1682375874i/123136728.jpg"
+    },
+    {
+      "title": "Theory & Practice",
+      "author": "Michelle de Kretser",
+      "link": "https://www.goodreads.com/book/show/213619983",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1720033033i/213619983.jpg"
+    },
+    {
+      "title": "You Dreamed of Empires",
+      "author": "Álvaro Enrigue",
+      "link": "https://www.goodreads.com/book/show/127938747",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1681140619i/127938747.jpg"
+    },
+    {
+      "title": "I Who Have Never Known Men",
+      "author": "Jacqueline Harpman",
+      "link": "https://www.goodreads.com/book/show/60811826",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1649947133i/60811826.jpg"
+    },
+    {
+      "title": "What We Fed to the Manticore",
+      "author": "Talia Lakshmi Kolluri",
+      "link": "https://www.goodreads.com/book/show/60528666",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1648584183i/60528666.jpg"
+    },
+    {
+      "title": "When the Reckoning Comes",
+      "author": "LaTanya McQueen",
+      "link": "https://www.goodreads.com/book/show/55425310",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1610055983i/55425310.jpg"
+    },
+    {
+      "title": "What Are You Going Through",
+      "author": "Sigrid Nunez",
+      "link": "https://www.goodreads.com/book/show/51152434",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1585361945i/51152434.jpg"
+    },
+    {
+      "title": "Sisters of the Vast Black (Our Lady of Endless Worlds, …",
+      "author": "Lina Rather",
+      "link": "https://www.goodreads.com/book/show/44581558",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1558536373i/44581558.jpg"
+    },
+    {
+      "title": "On Earth We're Briefly Gorgeous",
+      "author": "Ocean Vuong",
+      "link": "https://www.goodreads.com/book/show/41880609",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1615580168i/41880609.jpg"
+    },
+    {
+      "title": "The Only Harmless Great Thing",
+      "author": "Brooke Bolander",
+      "link": "https://www.goodreads.com/book/show/34659272",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1518069202i/34659272.jpg"
+    },
+    {
+      "title": "But Not Too Bold",
+      "author": "Hache Pueyo",
+      "link": "https://www.goodreads.com/book/show/211004133",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1716245696i/211004133.jpg"
+    },
+    {
+      "title": "Annihilation (Southern Reach, #1)",
+      "author": "Jeff VanderMeer",
+      "link": "https://www.goodreads.com/book/show/17934530",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1403941587i/17934530.jpg"
+    },
+    {
+      "title": "What Does It Feel Like?",
+      "author": "Sophie Kinsella",
+      "link": "https://www.goodreads.com/book/show/214312329",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1719026370i/214312329.jpg"
+    },
+    {
+      "title": "God Bless You, Otis Spunkmeyer",
+      "author": "Joseph Earl Thomas",
+      "link": "https://www.goodreads.com/book/show/202220516",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1700108683i/202220516.jpg"
+    },
+    {
+      "title": "Exit West",
+      "author": "Mohsin Hamid",
+      "link": "https://www.goodreads.com/book/show/30688435",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1477324680i/30688435.jpg"
+    },
+    {
+      "title": "Murder",
+      "author": "Memory (Dorothy Gentleman, #1)",
+      "link": "https://www.goodreads.com/book/show/211004175",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1724325334i/211004175.jpg"
+    },
+    {
+      "title": "My Sister, the Serial Killer",
+      "author": "Oyinkan Braithwaite",
+      "link": "https://www.goodreads.com/book/show/38819868",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1523366732i/38819868.jpg"
+    },
+    {
+      "title": "The Empress of Salt and Fortune (The Singing Hills Cycl…",
+      "author": "Nghi Vo",
+      "link": "https://www.goodreads.com/book/show/49882356",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1604973382i/49882356.jpg"
+    },
+    {
+      "title": "Gilead (Gilead, #1)",
+      "author": "Marilynne Robinson",
+      "link": "https://www.goodreads.com/book/show/51321772",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1704247171i/51321772.jpg"
+    },
+    {
+      "title": "The English Experience",
+      "author": "Julie Schumacher",
+      "link": "https://www.goodreads.com/book/show/63366031",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1684815303i/63366031.jpg"
+    },
+    {
+      "title": "An Unnecessary Woman",
+      "author": "Rabih Alameddine",
+      "link": "https://www.goodreads.com/book/show/36324288",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1506694519i/36324288.jpg"
+    },
+    {
+      "title": "Stories from the Tenants Downstairs",
+      "author": "Sidik Fofana",
+      "link": "https://www.goodreads.com/book/show/59366136",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1658349924i/59366136.jpg"
+    },
+    {
+      "title": "Company",
+      "author": "Shannon Sanders",
+      "link": "https://www.goodreads.com/book/show/65215464",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1674268835i/65215464.jpg"
+    },
+    {
+      "title": "The Strange Case of Dr. Jekyll and Mr. Hyde",
+      "author": "Robert Louis Stevenson",
+      "link": "https://www.goodreads.com/book/show/35427437",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1500627530i/35427437.jpg"
+    },
+    {
+      "title": "Wandering Souls",
+      "author": "Cecile Pin",
+      "link": "https://www.goodreads.com/book/show/60741794",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1716405505i/60741794.jpg"
+    },
+    {
+      "title": "Land of No Regrets",
+      "author": "Sadi Muktadir",
+      "link": "https://www.goodreads.com/book/show/197108937",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1704854169i/197108937.jpg"
+    },
+    {
+      "title": "Nonfiction",
+      "author": "Julie Myerson",
+      "link": "https://www.goodreads.com/book/show/181509531",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1689357119i/181509531.jpg"
+    },
+    {
+      "title": "We All Want Impossible Things",
+      "author": "Catherine Newman",
+      "link": "https://www.goodreads.com/book/show/60410002",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1645390620i/60410002.jpg"
+    },
+    {
+      "title": "Mrs. Dalloway",
+      "author": "Virginia Woolf",
+      "link": "https://www.goodreads.com/book/show/14942",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1646148221i/14942.jpg"
+    },
+    {
+      "title": "Dayswork",
+      "author": "Chris Bachelder",
+      "link": "https://www.goodreads.com/book/show/123410752",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1679444796i/123410752.jpg"
+    },
+    {
+      "title": "The Stranger",
+      "author": "Albert Camus",
+      "link": "https://www.goodreads.com/book/show/49552",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1738704267i/49552.jpg"
+    },
+    {
+      "title": "Clear",
+      "author": "Carys Davies",
+      "link": "https://www.goodreads.com/book/show/176443690",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1686502013i/176443690.jpg"
+    },
+    {
+      "title": "Nicked",
+      "author": "M.T. Anderson",
+      "link": "https://www.goodreads.com/book/show/200555176",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1708658984i/200555176.jpg"
+    },
+    {
+      "title": "Cinder House",
+      "author": "Freya Marske",
+      "link": "https://www.goodreads.com/book/show/222376570",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1741983755i/222376570.jpg"
+    },
+    {
+      "title": "Catalina",
+      "author": "Karla Cornejo Villavicencio",
+      "link": "https://www.goodreads.com/book/show/202907408",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1702664877i/202907408.jpg"
+    },
+    {
+      "title": "Come to the Window",
+      "author": "Howard Norman",
+      "link": "https://www.goodreads.com/book/show/201187768",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1698815747i/201187768.jpg"
+    },
+    {
+      "title": "Small Things Like These",
+      "author": "Claire Keegan",
+      "link": "https://www.goodreads.com/book/show/58662236",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1734631773i/58662236.jpg"
+    },
+    {
+      "title": "Ring Shout",
+      "author": "P. Djèlí Clark",
+      "link": "https://www.goodreads.com/book/show/49247242",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1580134382i/49247242.jpg"
+    },
+    {
+      "title": "Thornhedge",
+      "author": "T. Kingfisher",
+      "link": "https://www.goodreads.com/book/show/61884932",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1676554049i/61884932.jpg"
+    },
+    {
+      "title": "The People's Project: Poems, Essays, and Art for Lookin…",
+      "author": "Saeed Jones",
+      "link": "https://www.goodreads.com/book/show/228062204",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1747285588i/228062204.jpg"
+    },
+    {
+      "title": "Immemorial (Undelivered Lectures)",
+      "author": "Lauren Markham",
+      "link": "https://www.goodreads.com/book/show/205543988",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1718702787i/205543988.jpg"
+    },
+    {
+      "title": "One Day, Everyone Will Have Always Been Against This",
+      "author": "Omar El Akkad",
+      "link": "https://www.goodreads.com/book/show/213870084",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1723115329i/213870084.jpg"
+    },
+    {
+      "title": "The Dad Rock That Made Me a Woman",
+      "author": "Niko Stratis",
+      "link": "https://www.goodreads.com/book/show/217873806",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1733174822i/217873806.jpg"
+    },
+    {
+      "title": "Trying: A Memoir",
+      "author": "Chloé Caldwell",
+      "link": "https://www.goodreads.com/book/show/217387786",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1727497857i/217387786.jpg"
+    },
+    {
+      "title": "A Truce That Is Not Peace",
+      "author": "Miriam Toews",
+      "link": "https://www.goodreads.com/book/show/222376493",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1743687131i/222376493.jpg"
+    },
+    {
+      "title": "Poets Square: A Memoir in Thirty Cats",
+      "author": "Courtney Gustafson",
+      "link": "https://www.goodreads.com/book/show/216971220",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1729607158i/216971220.jpg"
+    },
+    {
+      "title": "Forest Euphoria: The Abounding Queerness of Nature",
+      "author": "Patricia Ononiwu Kaishian",
+      "link": "https://www.goodreads.com/book/show/215612512",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1746846646i/215612512.jpg"
+    },
+    {
+      "title": "Things in Nature Merely Grow",
+      "author": "Yiyun Li",
+      "link": "https://www.goodreads.com/book/show/221164555",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1740593371i/221164555.jpg"
+    },
+    {
+      "title": "No Straight Road Takes You There: Essays for Uneven Ter…",
+      "author": "Rebecca Solnit",
+      "link": "https://www.goodreads.com/book/show/216526680",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1728062351i/216526680.jpg"
+    },
+    {
+      "title": "Theory of Water: Nishnaabe Maps to the Times Ahead",
+      "author": "Leanne Betasamosake Simpson",
+      "link": "https://www.goodreads.com/book/show/216522008",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1741215409i/216522008.jpg"
+    },
+    {
+      "title": "Foreign Fruit: A Personal History of the Orange",
+      "author": "Katie Goh",
+      "link": "https://www.goodreads.com/book/show/220517408",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1738623745i/220517408.jpg"
+    },
+    {
+      "title": "Memorial Days",
+      "author": "Geraldine Brooks",
+      "link": "https://www.goodreads.com/book/show/212806569",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1718997230i/212806569.jpg"
+    },
+    {
+      "title": "Everything Is Tuberculosis: The History and Persistence…",
+      "author": "John Green",
+      "link": "https://www.goodreads.com/book/show/220341389",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1729825992i/220341389.jpg"
+    },
+    {
+      "title": "Oh My Mother!: A Memoir in Nine Adventures",
+      "author": "Connie  Wang",
+      "link": "https://www.goodreads.com/book/show/62802764",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1669085783i/62802764.jpg"
+    },
+    {
+      "title": "The Serviceberry: Abundance and Reciprocity in the Natu…",
+      "author": "Robin Wall Kimmerer",
+      "link": "https://www.goodreads.com/book/show/208840291",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1760641870i/208840291.jpg"
+    },
+    {
+      "title": "How to Slowly Kill Yourself and Others in America: Essa…",
+      "author": "Kiese Laymon",
+      "link": "https://www.goodreads.com/book/show/54823169",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1603033570i/54823169.jpg"
+    },
+    {
+      "title": "The Undocumented Americans",
+      "author": "Karla Cornejo Villavicencio",
+      "link": "https://www.goodreads.com/book/show/41880092",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1581615133i/41880092.jpg"
+    },
+    {
+      "title": "In the Dream House",
+      "author": "Carmen Maria Machado",
+      "link": "https://www.goodreads.com/book/show/43317482",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1547869259i/43317482.jpg"
+    },
+    {
+      "title": "Thick: And Other Essays",
+      "author": "Tressie McMillan Cottom",
+      "link": "https://www.goodreads.com/book/show/43310729",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1545476937i/43310729.jpg"
+    },
+    {
+      "title": "On Immunity: An Inoculation",
+      "author": "Eula Biss",
+      "link": "https://www.goodreads.com/book/show/20613511",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1393647576i/20613511.jpg"
+    },
+    {
+      "title": "When Breath Becomes Air",
+      "author": "Paul Kalanithi",
+      "link": "https://www.goodreads.com/book/show/25614898",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1463936399i/25614898.jpg"
+    },
+    {
+      "title": "Ex Libris: Confessions of a Common Reader",
+      "author": "Anne Fadiman",
+      "link": "https://www.goodreads.com/book/show/46890",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1435782351i/46890.jpg"
+    },
+    {
+      "title": "84, Charing Cross Road",
+      "author": "Helene Hanff",
+      "link": "https://www.goodreads.com/book/show/52850170",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1715247624i/52850170.jpg"
+    },
+    {
+      "title": "The Story of More: How We Got to Climate Change and Whe…",
+      "author": "Hope Jahren",
+      "link": "https://www.goodreads.com/book/show/49960370",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1574331253i/49960370.jpg"
+    },
+    {
+      "title": "When We Cease to Understand the World",
+      "author": "Benjamín Labatut",
+      "link": "https://www.goodreads.com/book/show/53972214",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1596817309i/53972214.jpg"
+    },
+    {
+      "title": "Thinning Blood: A Memoir of Family, Myth, and Identity",
+      "author": "Leah Myers",
+      "link": "https://www.goodreads.com/book/show/62586002",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1676788318i/62586002.jpg"
+    },
+    {
+      "title": "Bite",
+      "author": "Bite: Nourishments and Jamborees",
+      "link": "https://www.goodreads.com/book/show/195853505",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1702057655i/195853505.jpg"
+    },
+    {
+      "title": "You Get What You Pay For: Essays",
+      "author": "Morgan  Parker",
+      "link": "https://www.goodreads.com/book/show/157056100",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1698688825i/157056100.jpg"
+    },
+    {
+      "title": "Firstborn: A Memoir",
+      "author": "Lauren  Christensen",
+      "link": "https://www.goodreads.com/book/show/214986210",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1731527800i/214986210.jpg"
+    },
+    {
+      "title": "The Message",
+      "author": "Ta-Nehisi Coates",
+      "link": "https://www.goodreads.com/book/show/210943364",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1717094243i/210943364.jpg"
+    },
+    {
+      "title": "Stand in My Window: Meditations on Home and How We Make…",
+      "author": "LaTonya Yvette",
+      "link": "https://www.goodreads.com/book/show/203708989",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1717521082i/203708989.jpg"
+    }
+  ]
+}
