@@ -1,0 +1,73 @@
+{
+  "viewer": {
+    "app_name": "Goodreads Challenge Optimizer",
+    "description": "An independent viewer that helps you explore and cross-reference Goodreads seasonal reading challenges.",
+    "created_by_label": "Created by nosnhojD",
+    "created_by_url": "https://example.com/about",
+    "buy_me_a_coffee_url": "https://buymeacoffee.com/your-handle",
+    "feedback_url": "https://example.com/feedback",
+    "disclaimer": "This tool is an independent project and is not affiliated with or endorsed by Goodreads.",
+    "version": "2.1.0",
+    "default_season": {
+      "year": 2025,
+      "season": "fall"
+    }
+  },
+  "seasons": [
+    {
+      "year": 2025,
+      "season": "fall",
+      "challenge_display_name": "Fall 2025 Reading Challenge",
+      "challenge_url": "https://www.goodreads.com/readingchallenges/dp/a980e374-c0c7-4b79-b94b-73056bf104f4",
+      "books_read_achievements": [
+        {
+          "id": "fall25_goal_2",
+          "type": "books_read",
+          "name": "Page-Turner",
+          "icon_url": "https://m.media-amazon.com/images/G/01/RC/Goodreads2025FallSeasonalChallenge_PageTurner_a66cca76-9cbd-4d6f-97c9-ceeec8b516b7.png",
+          "goodreads_url": "https://www.goodreads.com/readingchallenges/achievements/dp/3e277d3e-ceb6-49df-afe4-c7362d855b6c"
+        },
+        {
+          "id": "fall25_goal_3",
+          "type": "books_read",
+          "name": "Speed Reader",
+          "icon_url": "https://m.media-amazon.com/images/G/01/RC/Goodreads2025FallSeasonalChallenge_SpeedReader_8d945a07-5131-427b-984c-fbf9ccaf502e.png",
+          "goodreads_url": "https://www.goodreads.com/readingchallenges/achievements/dp/db6e3348-3ef3-4dc6-944e-3523bbb60f56"
+        },
+        {
+          "id": "fall25_goal_5",
+          "type": "books_read",
+          "name": "Book Boss",
+          "icon_url": "https://m.media-amazon.com/images/G/01/RC/Goodreads2025FallSeasonalChallenge_BookBoss_1c8a3405-28b4-40e3-9cb3-ea57079a81d6.png",
+          "goodreads_url": "https://www.goodreads.com/readingchallenges/achievements/dp/87d9d4b2-3b0f-474b-8f43-a2a2b10da5a0"
+        }
+      ],
+      "book_list_achievements": [
+         {
+          "id": "fall25_community_picks",
+          "type": "book_list",
+          "name": "Community Picks",
+          "icon_url": "https://m.media-amazon.com/images/G/01/RC/Goodreads2025FallSeasonalChallenge_CommunityPick_da5a608d-242d-45bc-98b3-5a98a6f6b4d2.png",
+          "goodreads_url": "https://www.goodreads.com/readingchallenges/achievements/dp/c3279982-a804-4b92-83d7-a9ae5a939ad1",
+          "artifact_name_match": "Community Picks"
+        },
+        {
+          "id": "fall25_hispanic_heritage",
+          "type": "book_list",
+          "name": "Hispanic Heritage",
+          "icon_url": "https://m.media-amazon.com/images/G/01/RC/Goodreads2025FallSeasonalChallenge_HispanicHeritage_b1c81031-0c73-4875-92dd-3e873d6870a1.png",
+          "goodreads_url": "https://www.goodreads.com/readingchallenges/achievements/dp/68947655-b70e-4d4c-a57a-4486d3a2ff11",
+          "artifact_name_match": "Hispanic Heritage"
+        },
+        {
+          "id": "fall25_spine_tinglers",
+          "type": "book_list",
+          "name": "Spine Tinglers",
+          "icon_url": "https://m.media-amazon.com/images/G/01/RC/Goodreads2025FallSeasonalChallenge_SpineTinglers_079af91f-57a3-45de-ae8d-ea82afd8e7aa.png",
+          "goodreads_url": "https://www.goodreads.com/readingchallenges/achievements/dp/816f2b15-51d6-416b-b4ed-4f66e1842db2",
+          "artifact_name_match": "Spine Tinglers"
+        }
+      ]
+    }
+  ]
+}
