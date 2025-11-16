@@ -16,7 +16,7 @@
       --danger:#b91c1c;--ok:#16a34a;--warn:#b45309;--highlight:#fffbe6
     }
     html,body{height:100%}
-    body{margin:0;background:var(--bg);color:var(--text);font:14px/1.6 system-ui,-apple-system,Segoe UI,Roboto,Ubuntu,Cantarell,Noto Sans,Arial}
+    body{margin:0;background:var(--bg);color:var(--text);font:14px/1.4 system-ui,-apple-system,Segoe UI,Roboto,Ubuntu,Cantarell,Noto Sans,Arial}
     .container{max-width:1200px;margin:0 auto;padding:24px 16px 80px}
     header{position:sticky;top:0;z-index:5;background:linear-gradient(180deg,var(--bg) 75%,transparent);border-bottom:1px solid var(--border)}
     header .bar{max-width:1200px;margin:0 auto;padding:12px 16px;display:flex;gap:12px;align-items:center;justify-content:space-between}
@@ -37,16 +37,170 @@
     .badge{padding:2px 8px;border-radius:999px;border:1px solid var(--border);font-size:12px}
     .right{display:flex;gap:8px;align-items:center}
     .filters{display:flex;flex-wrap:wrap;gap:8px;align-items:center}
-    .hidden{display:none}
-    .link{color:var(--accent)}
+    .hidden{display:none !important} /* make sure it wins over header .bar */
+
+    /* Link style: match grid-style title links */
+    .link{
+      color:var(--text);
+      text-decoration:none;
+    }
+    .link:hover{
+      text-decoration:underline;
+    }
+
     .chipbtn{border-radius:999px;border:1px solid var(--border);padding:6px 10px;background:var(--panel)}
     .chipbtn.active{outline:2px solid var(--accent)}
+
+    /* Layout blocks */
+    #titleBlock{display:flex;gap:12px;align-items:flex-start;justify-content:space-between}
+    .title-left{display:flex;flex-direction:column;gap:4px;min-width:0}
+    .title-main{display:flex;flex-wrap:wrap;gap:6px;align-items:baseline}
+    .title-main h1{margin:0;font-weight:700;font-size:18px;letter-spacing:.2px}
+    .title-main .sep{opacity:.6}
+    .title-stats{font-size:12px}
+    .title-right{display:flex;align-items:center}
+    #titleBlock input#searchBox{min-width:220px}
+
+    #adminBlock .controls{display:flex;flex-wrap:wrap;gap:8px;align-items:center}
+
+    #achievementsBlock{margin:16px 0;display:flex;flex-wrap:wrap;gap:12px;align-items:flex-start}
+
+    /* Achievements block items */
+    .ach-item{
+      display:flex;
+      flex-direction:column;
+      align-items:center;
+      gap:4px;
+      min-width:80px;
+      max-width:120px;
+      text-align:center;
+      font-size:12px;
+    }
+    .ach-icon-wrap{
+      width:32px;
+      height:48px;
+      border-radius:6px 6px 2px 2px;
+      border:1px solid var(--border);
+      background:var(--panel);
+      display:flex;
+      align-items:center;
+      justify-content:center;
+      overflow:hidden;
+    }
+    .ach-icon-wrap img{
+      max-width:100%;
+      max-height:100%;
+      display:block;
+    }
+    .ach-name{
+      font-weight:500;
+    }
+    .ach-count{
+      color:var(--muted);
+      font-size:11px;
+    }
+
+    #filterBlock{margin-bottom:16px;display:flex;flex-direction:column;gap:8px}
+
+    /* Table title cell: cover + title inline */
+    .title-cell{
+      display:flex;
+      align-items:flex-start;
+      gap:8px;
+    }
+    .title-cell img{
+      flex-shrink:0;
+      border-radius:4px;
+      display:block;
+    }
+
+    /* Book block grid view */
+    #bookGridWrap{margin-top:12px}
+    .card-grid{
+      display:grid;
+      grid-template-columns:repeat(auto-fill,minmax(220px,1fr)); /* ~5 columns on typical desktop width */
+      gap:12px;
+    }
+    .card{
+      background:var(--panel);
+      border-radius:12px;
+      border:1px solid var(--border);
+      padding:8px;
+      display:flex;
+      flex-direction:column;
+      gap:6px;
+    }
+    .card-cover{
+      width:100%;
+      padding-top:150%;
+      position:relative;
+      overflow:hidden;
+      border-radius:8px;
+      background:#111;
+    }
+    .card-cover img{
+      position:absolute;
+      inset:0;
+      width:100%;
+      height:100%;
+      object-fit:cover;
+      display:block;
+    }
+    .card-title{
+      font-weight:600;
+      font-size:13px;
+    }
+    .card-title a{
+      color:var(--text);
+      text-decoration:none;
+    }
+    .card-title a:hover{
+      text-decoration:underline;
+    }
+    .card-author{
+      font-size:12px;
+      color:var(--muted);
+    }
+    .card-ach{
+      display:flex;
+      flex-wrap:wrap;
+      gap:4px;
+    }
+    .card-ach .pill{
+      font-size:11px;
+      padding:2px 6px;
+    }
+
+    .about{max-width:1200px;margin:24px auto 32px;padding:0 16px}
+    .about-content{margin-top:8px;padding:12px 16px;border-radius:12px;background:var(--panel);border:1px solid var(--border)}
   </style>
 </head>
 <body>
   <header>
-    <div class="bar">
-      <h1>Goodreads Challenge • Viewer</h1>
+    <div class="bar" id="titleBlock">
+      <div class="title-left">
+        <div class="title-main">
+          <h1 id="appTitle">Goodreads Challenge Optimizer</h1>
+          <span class="sep">•</span>
+          <span id="seasonLabel" class="season-label">Season —</span>
+          <span class="sep">•</span>
+          <span id="createdByText">
+            Created by <a id="createdByLink" href="#" target="_blank" rel="noopener">Dirk</a>
+            <span id="createdByCoffeeWrapper" class="muted">
+              · <a id="coffeeLink" href="#" target="_blank" rel="noopener">Buy me a coffee</a>
+            </span>
+          </span>
+        </div>
+        <div class="title-stats">
+          <span id="stats" class="badge">—</span>
+        </div>
+      </div>
+      <div class="title-right">
+        <input id="searchBox" type="text" placeholder="Search title/author…" />
+      </div>
+    </div>
+
+    <div class="bar" id="adminBlock">
       <div class="controls">
         <label>Year
           <select id="yearSel"></select>
@@ -60,7 +214,17 @@
           </select>
         </label>
         <button id="loadBtn">Load</button>
-        <input id="searchBox" type="text" placeholder="Search title/author…" />
+      </div>
+    </div>
+  </header>
+
+  <div class="container">
+    <div id="meta" class="muted">—</div>
+
+    <div id="achievementsBlock"></div>
+
+    <div id="filterBlock">
+      <div class="filters filters-row1">
         <label title="Show only books that appear in multiple lists">
           <input type="checkbox" id="dupesOnlyChk" /> Duplicates only
         </label>
@@ -75,42 +239,80 @@
           </select>
         </label>
         <button id="themeBtn" title="Toggle theme">Theme</button>
+
+        <label>View
+          <select id="viewModeSel">
+            <option value="table">Table</option>
+            <option value="grid">Grid</option>
+          </select>
+        </label>
+
+        <label title="Toggle book cover images">
+          <input type="checkbox" id="coversChk" /> Show covers
+        </label>
+      </div>
+      <div class="filters filters-row2">
+        <details id="achFilter" class="chipfilter">
+          <summary class="chipbtn">Filter by list (Achievements)</summary>
+          <div id="achFilterWrap" style="margin-top:8px;display:flex;flex-wrap:wrap;gap:8px;"></div>
+        </details>
+
+        <label class="pill" title="How to combine selected achievements">
+          Match
+          <select id="achModeSel">
+            <option value="any">any selected lists</option>
+            <option value="all">all selected lists</option>
+          </select>
+        </label>
+
+        <button id="clearFiltersBtn" class="chipbtn">Clear filters</button>
       </div>
     </div>
-  </header>
 
-  <div class="container">
-    <div id="meta" class="muted">—</div>
+    <div id="bookBlock">
+      <div id="bookTableWrap">
+        <div class="grid">
+          <table id="tbl">
+            <thead>
+              <tr>
+                <th style="width:32px">#</th>
+                <th>Title</th>
+                <th>Author</th>
+                <th>Achievements</th>
+              </tr>
+            </thead>
+            <tbody id="tbody"></tbody>
+          </table>
+        </div>
+      </div>
 
-    <div class="filters">
-      <details id="achFilter" class="chipfilter">
-        <summary class="chipbtn">Filter by list (Achievements)</summary>
-        <div id="achFilterWrap" style="margin-top:8px;display:flex;flex-wrap:wrap;gap:8px;"></div>
-      </details>
-      <button id="clearFiltersBtn" class="chipbtn">Clear filters</button>
-    </div>
+      <div id="bookGridWrap" class="hidden">
+        <div id="bookGrid" class="card-grid"></div>
+      </div>
 
-    <div class="grid">
-      <table id="tbl">
-        <thead>
-          <tr>
-            <th style="width:32px">#</th>
-            <th>Title</th>
-            <th>Author</th>
-            <th>Achievements</th>
-            <th>Link</th>
-          </tr>
-        </thead>
-        <tbody id="tbody"></tbody>
-      </table>
-    </div>
-    <div class="footer">
-      <div id="stats" class="badge">—</div>
-      <div class="right">
-        <span class="muted">Data auto-loads from <code>/data/{year}/{season}.json</code></span>
+      <div class="footer">
+        <div class="muted"></div>
+        <div class="right">
+          <span class="muted">Data auto-loads from <code>/data/{year}/{season}.json</code></span>
+        </div>
       </div>
     </div>
   </div>
+
+  <details id="aboutBlock" class="about">
+    <summary class="chipbtn">About this viewer</summary>
+    <div class="about-content">
+      <p id="aboutDescription">Goodreads Challenge Optimizer helps you explore and cross-reference Goodreads seasonal reading challenges.</p>
+      <p id="aboutDisclaimer" class="muted">This tool is an independent project and is not affiliated with or endorsed by Goodreads.</p>
+      <p id="aboutSeason" class="muted">Season and generation info will appear here after data loads.</p>
+      <p id="aboutVersion" class="muted">Viewer version information will appear here.</p>
+      <p>
+        <a id="aboutChallengeLink" href="#" target="_blank" rel="noopener">View Goodreads challenge</a> ·
+        <a id="aboutFeedbackLink" href="#" target="_blank" rel="noopener">Send feedback</a> ·
+        <a id="aboutCoffeeLink" href="#" target="_blank" rel="noopener">Buy me a coffee</a>
+      </p>
+    </div>
+  </details>
 
   <script src="./grchallenges_viewer.js"></script>
 </body>
