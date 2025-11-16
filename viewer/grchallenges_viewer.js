@@ -252,7 +252,7 @@ async function loadSeason(){
   if(!els.year || !els.season) return;
   const year = parseInt(els.year.value, 10);
   const season = els.season.value;
-  const url = `/data/${year}/${season}.json`;
+  const url = `../data/${year}/${season}.json`;
   if(els.meta) els.meta.textContent = `Loading ${url}…`;
   try{
     const res = await fetch(url, { cache: "no-store" });
