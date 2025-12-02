@@ -66,7 +66,56 @@
           "icon_url": "https://m.media-amazon.com/images/G/01/RC/Goodreads2025FallSeasonalChallenge_SpineTinglers_079af91f-57a3-45de-ae8d-ea82afd8e7aa.png",
           "goodreads_url": "https://www.goodreads.com/readingchallenges/achievements/dp/816f2b15-51d6-416b-b4ed-4f66e1842db2",
           "artifact_name_match": "Spine Tinglers"
+        }        ,
+        {
+          "id": "fall25_heart_warmers",
+          "type": "book_list",
+          "name": "Heart Warmers",
+          "icon_url": "https://m.media-amazon.com/images/G/01/RC/Goodreads2025FallSeasonalChallenge_HeartWarmers_c327c404-3321-4feb-8bc8-6e13da8b6e1c.png",
+          "goodreads_url": "https://www.goodreads.com/readingchallenges/achievements/dp/e18c47c7-043e-44da-bd2d-f37aafe27bca",
+          "artifact_name_match": "Heart Warmers"
+        },
+        {
+          "id": "fall25_fiction_favs",
+          "type": "book_list",
+          "name": "Fiction Favs",
+          "icon_url": "https://m.media-amazon.com/images/G/01/RC/Goodreads2025FallSeasonalChallenge_FictionFaves_481190ae-804c-4507-aef1-3a1a7fba6e29.png",
+          "goodreads_url": "https://www.goodreads.com/readingchallenges/achievements/dp/25d703a2-ae09-4bfc-93a0-46a63647bdbd",
+          "artifact_name_match": "Fiction Favs"
+        },
+        {
+          "id": "fall25_memorable_memoirs",
+          "type": "book_list",
+          "name": "Memorable Memoirs",
+          "icon_url": "https://m.media-amazon.com/images/G/01/RC/Goodreads2025FallSeasonalChallenge_MemorableMemoirs_61d22135-13b3-4c2e-a092-3b3ccfeaff2a.png",
+          "goodreads_url": "https://www.goodreads.com/readingchallenges/achievements/dp/931daab7-2296-4b33-8888-32e44f3e27f4",
+          "artifact_name_match": "Memorable Memoirs"
+        },
+        {
+          "id": "fall25_native_voices",
+          "type": "book_list",
+          "name": "Native Voices",
+          "icon_url": "https://m.media-amazon.com/images/G/01/RC/Goodreads2025FallSeasonalChallenge_NativeVoices_f5663499-5422-4294-a7c9-42d9ea96db07.png",
+          "goodreads_url": "https://www.goodreads.com/readingchallenges/achievements/dp/82b7552b-aa1d-423f-a4e4-4ddc826b4d95",
+          "artifact_name_match": "Native Voices"
+        },
+        {
+          "id": "fall25_bite_size_books",
+          "type": "book_list",
+          "name": "Bite Size Books",
+          "icon_url": "https://m.media-amazon.com/images/G/01/RC/Goodreads2025FallSeasonalChallenge_BiteSizeBooks_438148d3-b30d-4660-b7f7-74e938333396.png",
+          "goodreads_url": "https://www.goodreads.com/readingchallenges/achievements/dp/532aa5d7-a5e4-4c8b-8842-f4988b65cbf1",
+          "artifact_name_match": "Bite Size Books"
+        },
+        {
+          "id": "fall25_choice_awards",
+          "type": "book_list",
+          "name": "Choice Awards",
+          "icon_url": "https://m.media-amazon.com/images/G/01/RC/Goodreads2025FallSeasonalChallenge_ChoiceAwards_e993c1e9-9bd0-4846-8003-6a508f0078c4.png",
+          "goodreads_url": "https://www.goodreads.com/readingchallenges/achievements/dp/d0bf3052-bcd5-4104-8761-5b23424a081f",
+          "artifact_name_match": "Choice Awards"
         }
+        
       ]
     }
   ]
