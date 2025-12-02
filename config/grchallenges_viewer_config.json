@@ -78,7 +78,7 @@
         {
           "id": "fall25_fiction_faves",
           "type": "book_list",
-          "name": "Fiction Favs",
+          "name": "Fiction Faves",
           "icon_url": "https://m.media-amazon.com/images/G/01/RC/Goodreads2025FallSeasonalChallenge_FictionFaves_481190ae-804c-4507-aef1-3a1a7fba6e29.png",
           "goodreads_url": "https://www.goodreads.com/readingchallenges/achievements/dp/25d703a2-ae09-4bfc-93a0-46a63647bdbd",
           "artifact_name_match": "Fiction Faves"
