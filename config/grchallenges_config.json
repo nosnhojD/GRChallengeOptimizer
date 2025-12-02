@@ -47,7 +47,7 @@
   },
   {
     "enabled": true,
-    "name": "Fiction Favs",
+    "name": "Fiction Faves",
     "url": "https://www.goodreads.com/blog/show/2980?ref=gradp_fictionfaves",
     "expected_min": 90,
     "expected_max": 140,
@@ -76,7 +76,30 @@
     "expected_min": 90,
     "expected_max": 110,
     "release_date": "2025-11-01"
-  }
+  },
+     {
+  "enabled": true,
+  "name": "Choice Awards",
+  "urls": [
+    "https://www.goodreads.com/choiceawards/readers-favorite-fiction-books-2025",
+    "https://www.goodreads.com/choiceawards/readers-favorite-historical-fiction-books-2025",
+    "https://www.goodreads.com/choiceawards/readers-favorite-mystery-thriller-books-2025",
+    "https://www.goodreads.com/choiceawards/readers-favorite-romance-books-2025",
+    "https://www.goodreads.com/choiceawards/readers-favorite-romantasy-books-2025",
+    "https://www.goodreads.com/choiceawards/readers-favorite-fantasy-books-2025",
+    "https://www.goodreads.com/choiceawards/readers-favorite-science-fiction-books-2025",
+    "https://www.goodreads.com/choiceawards/readers-favorite-horror-books-2025",
+    "https://www.goodreads.com/choiceawards/readers-favorite-debut-novel-2025",
+    "https://www.goodreads.com/choiceawards/readers-favorite-audio-books-2025",
+    "https://www.goodreads.com/choiceawards/readers-favorite-ya-fantasy-and-science-fiction-books-2025",
+    "https://www.goodreads.com/choiceawards/readers-favorite-ya-fiction-books-2025",
+    "https://www.goodreads.com/choiceawards/readers-favorite-nonfiction-books-2025",
+    "https://www.goodreads.com/choiceawards/readers-favorite-memoir-books-2025",
+    "https://www.goodreads.com/choiceawards/readers-favorite-history-bio-books-2025"
+  ],
+  "expected_min": 250,
+  "expected_max": 320
+}
 ]
 
 }

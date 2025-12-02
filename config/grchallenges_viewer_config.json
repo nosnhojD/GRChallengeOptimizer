@@ -76,12 +76,12 @@
           "artifact_name_match": "Heart Warmers"
         },
         {
-          "id": "fall25_fiction_favs",
+          "id": "fall25_fiction_faves",
           "type": "book_list",
           "name": "Fiction Favs",
           "icon_url": "https://m.media-amazon.com/images/G/01/RC/Goodreads2025FallSeasonalChallenge_FictionFaves_481190ae-804c-4507-aef1-3a1a7fba6e29.png",
           "goodreads_url": "https://www.goodreads.com/readingchallenges/achievements/dp/25d703a2-ae09-4bfc-93a0-46a63647bdbd",
-          "artifact_name_match": "Fiction Favs"
+          "artifact_name_match": "Fiction Faves"
         },
         {
           "id": "fall25_memorable_memoirs",
@@ -102,10 +102,10 @@
         {
           "id": "fall25_bite_size_books",
           "type": "book_list",
-          "name": "Bite Size Books",
+          "name": "Bite-Size Books",
           "icon_url": "https://m.media-amazon.com/images/G/01/RC/Goodreads2025FallSeasonalChallenge_BiteSizeBooks_438148d3-b30d-4660-b7f7-74e938333396.png",
           "goodreads_url": "https://www.goodreads.com/readingchallenges/achievements/dp/532aa5d7-a5e4-4c8b-8842-f4988b65cbf1",
-          "artifact_name_match": "Bite Size Books"
+          "artifact_name_match": "Bite-Size Books"
         },
         {
           "id": "fall25_choice_awards",
