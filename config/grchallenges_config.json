@@ -1,8 +1,8 @@
 {
   "run_label": "goodreads_v2_preflight",
   "output": {
-    "year": 2025,
-    "season": "Fall",
+    "year": 2026,
+    "season": "Winter",
     "path": "./data/{year}/{season}.json"
   },
   "csv_debug_path": "./data/debug_latest.csv",
@@ -15,70 +15,70 @@
   "achievements": [
   {
     "enabled": true,
-    "name": "Community Picks",
-    "url": "https://www.goodreads.com/blog/show/2957?ref=gradp_communitypick",
+    "name": "Choice Archive",
+    "url": "https://www.goodreads.com/blog/show/3038?ref=gradp_choicearchive",
     "expected_min": 120,
     "expected_max": 160,
-    "release_date": "2025-09-15"
+    "release_date": "2026-01-01"
   },
   {
     "enabled": true,
-    "name": "Hispanic Heritage",
-    "url": "https://www.goodreads.com/blog/show/2958?ref=gradp_hispanicheritage",
-    "expected_min": 100,
-    "expected_max": 130,
-    "release_date": "2025-09-15"
+    "name": "Challenge Faves",
+    "url": "https://www.goodreads.com/blog/show/3029?ref=gradp_challengefaves",
+    "expected_min": 140,
+    "expected_max": 170,
+    "release_date": "2026-01-01"
   },
   {
     "enabled": true,
-    "name": "Spine Tinglers",
-    "url": "https://www.goodreads.com/blog/show/3008?ref=gradp_spinetinglers",
-    "expected_min": 50,
+    "name": "Lasting Reads",
+    "url": "https://www.goodreads.com/blog/show/3040?ref=gradp_lastingreads",
+    "expected_min": 90,
     "expected_max": 110,
-    "release_date": "2025-09-15"
+    "release_date": "2026-01-01"
   },
   {
     "enabled": true,
-    "name": "Heart Warmers",
-    "url": "https://www.goodreads.com/blog/show/3001?ref=gradp_heartwarmers",
+    "name": "Star Selections",
+    "url": "https://www.goodreads.com/blog/show/3039?ref=gradp_starselections",
+    "expected_min": 80,
+    "expected_max": 100,
+    "release_date": "2026-01-01"
+  },
+  {
+    "enabled": true,
+    "name": "Tale Spinners",
+    "url": "https://www.goodreads.com/blog/show/3043?ref=gradp_talespinners",
+    "expected_min": 190,
+    "expected_max": 210,
+    "release_date": "2026-01-01"
+  },
+  {
+    "enabled": true,
+    "name": "Black Heritage",
+    "url": "https://www.goodreads.com/blog/show/3041?ref=gradp_blackheritage",
     "expected_min": 110,
-    "expected_max": 130,
-    "release_date": "2025-09-30"
-  },
-  {
-    "enabled": true,
-    "name": "Fiction Faves",
-    "url": "https://www.goodreads.com/blog/show/2980?ref=gradp_fictionfaves",
-    "expected_min": 90,
     "expected_max": 140,
-    "release_date": "2025-08-05"
-  },
-  {
-    "enabled": true,
-    "name": "Memorable Memoirs",
-    "url": "https://www.goodreads.com/blog/show/2983?ref=gradp_memorablememoirs",
-    "expected_min": 90,
-    "expected_max": 110,
-    "release_date": "2025-08-01"
+    "release_date": "2026-02-01"
   },
    {
     "enabled": true,
-    "name": "Native Voices",
-    "url": "https://www.goodreads.com/blog/show/2956?ref=gradp_nativevoices",
-    "expected_min": 115,
-    "expected_max": 140,
-    "release_date": "2025-11-01"
+    "name": "Swoony Stories",
+    "url": "https://www.goodreads.com/blog/show/3049?ref=gradp_swoonystories",
+    "expected_min": 130,
+    "expected_max": 160,
+    "release_date": "2026-02-01"
   },
    {
     "enabled": true,
-    "name": "Bite-Size Books",
-    "url": "https://www.goodreads.com/blog/show/3010?ref=gradp_bitesizebooks",
-    "expected_min": 90,
-    "expected_max": 110,
-    "release_date": "2025-11-01"
+    "name": "Persona Picks",
+    "url": "https://www.goodreads.com/blog/show/3050?ref=gradp_personapicks",
+    "expected_min": 120,
+    "expected_max": 150,
+    "release_date": "2026-02-15"
   },
      {
-  "enabled": true,
+  "enabled":false,
   "name": "Choice Awards",
   "urls": [
     "https://www.goodreads.com/choiceawards/readers-favorite-fiction-books-2025",
