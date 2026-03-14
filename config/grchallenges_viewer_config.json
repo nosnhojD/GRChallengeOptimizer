@@ -55,7 +55,7 @@
           "id": "winter26_challenge_faves",
           "type": "book_list",
           "name": "Challenge Faves",
-          "icon_url": "https://m.media-amazon.com/images/G/01/RC/Goodreads2026WinterSeasonalChallenge_ChallengeFaves_d1c8f4a7-5e2b-4d9c-a6f3-8b1e5c7f4a9d.png",
+          "icon_url": "https://m.media-amazon.com/images/G/01/RC/Goodreads2026WinterSeasonalChallenge_ChallengeFaves_f7b4e9a3-2c6d-4f8e-b1a5-7c9e2f4b8d1a.png",
           "goodreads_url": "https://www.goodreads.com/readingchallenges/achievements/dp/b5e1a8f4-9c2d-4b7e-f3a6-2d8c5e1b4f7a",
           "artifact_name_match": "Challenge Faves"
         },
@@ -63,7 +63,7 @@
           "id": "winter26_lasting_reads",
           "type": "book_list",
           "name": "Lasting Reads",
-          "icon_url": "https://m.media-amazon.com/images/G/01/RC/Goodreads2026WinterSeasonalChallenge_LastingReads_f9b6c3e7-2d5a-4f8b-c4e1-8a3f9b6c2d5e.png",
+          "icon_url": "https://m.media-amazon.com/images/G/01/RC/Goodreads2026WinterSeasonalChallenge_LastingReads_e3a8d5f1-7c4b-4e9a-d2f6-5b8e3a7d1c4f.png",
           "goodreads_url": "https://www.goodreads.com/readingchallenges/achievements/dp/a4d1f8c5-6e9b-4a3d-f7c2-1b4a8d6f9c3e",
           "artifact_name_match": "Lasting Reads"
         }        ,
@@ -79,7 +79,7 @@
           "id": "winter26_tale_spinners",
           "type": "book_list",
           "name": "Tale Spinners",
-          "icon_url": "https://m.media-amazon.com/images/G/01/RC/Goodreads2026WinterSeasonalChallenge_TaleSpinners_f6a3e8d5-1c4b-4f7a-e2d9-8b1f6a3e5c4d.png",
+          "icon_url": "https://m.media-amazon.com/images/G/01/RC/Goodreads2026WinterSeasonalChallenge_TaleSpinners_b8e5a2f9-4c7d-4b6e-a9f3-7d1b5e8a4c2f.png",
           "goodreads_url": "https://www.goodreads.com/readingchallenges/achievements/dp/c1e9b5f2-7a4d-4c8e-b3f6-2d7c1e9b4a5f",
           "artifact_name_match": "Tale Spinners"
         },
@@ -87,7 +87,7 @@
           "id": "winter26_black_heritage",
           "type": "book_list",
           "name": "Black Heritage",
-          "icon_url": "https://m.media-amazon.com/images/G/01/RC/Goodreads2026WinterSeasonalChallenge_BlackHeritage_b9c6f3a7-2e5d-4b8c-f1a4-6d2b9c3f5e8a.png",
+          "icon_url": "https://m.media-amazon.com/images/G/01/RC/Goodreads2026WinterSeasonalChallenge_BlackHeritage_e7d4a1f8-5c2b-4e6d-a8f1-4b7e2d5a1c8f.png",
           "goodreads_url": "https://www.goodreads.com/readingchallenges/achievements/dp/d6a2e9f4-8c1b-4d7a-e5f8-1b6d3a2e9c4f",
           "artifact_name_match": "Black Heritage"
         },
@@ -108,12 +108,12 @@
           "artifact_name_match": "Persona Picks"
         },
         {
-          "id": "winter26_choice_awards",
+          "id": "winter26_her_story",
           "type": "book_list",
-          "name": "Choice Awards",
+          "name": "Her Story",
           "icon_url": "https://m.media-amazon.com/images/G/01/RC/Goodreads2025FallSeasonalChallenge_ChoiceAwards_71d47f4f-4029-4a15-b539-aec64e831c4f.png",
-          "goodreads_url": "https://www.goodreads.com/readingchallenges/achievements/dp/d0bf3052-bcd5-4104-8761-5b23424a081f",
-          "artifact_name_match": "Choice Awards"
+          "goodreads_url": "https://www.goodreads.com/readingchallenges/achievements/dp/b7e3d9f6-2c5a-4b4e-d1f8-5a2b7e3d9c6f?shouldDisableChallengeHomeButton=true",
+          "artifact_name_match": "Her Story"
         }
         
       ]
