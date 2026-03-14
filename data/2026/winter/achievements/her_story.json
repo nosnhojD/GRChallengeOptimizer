@@ -1,0 +1,715 @@
+{
+  "generated_at": "2026-03-14T01:00:36Z",
+  "season": {
+    "year": "2026",
+    "name": "Winter"
+  },
+  "name": "Her Story",
+  "source_url": "https://www.goodreads.com/blog/show/3042?ref=gradp_herstory",
+  "book_count": 100,
+  "books": [
+    {
+      "title": "Sisters in Science",
+      "author": "Olivia Campbell",
+      "link": "https://www.goodreads.com/book/show/203747797",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1719786736i/203747797.jpg",
+      "gr_id": "203747797"
+    },
+    {
+      "title": "The Cure for Women",
+      "author": "Lydia Reeder",
+      "link": "https://www.goodreads.com/book/show/203578826",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1716904743i/203578826.jpg",
+      "gr_id": "203578826"
+    },
+    {
+      "title": "Penelope's Bones: A New History of Homer’s World throug…",
+      "author": "Emily Hauser",
+      "link": "https://www.goodreads.com/book/show/218663941",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1741878526i/218663941.jpg",
+      "gr_id": "218663941"
+    },
+    {
+      "title": "How to Kill a Witch: The Patriarchy's Guide to Silencin…",
+      "author": "Zoe Venditozzi",
+      "link": "https://www.goodreads.com/book/show/222476092",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1746641921i/222476092.jpg",
+      "gr_id": "222476092"
+    },
+    {
+      "title": "A Flower Traveled in My Blood",
+      "author": "Haley Cohen Gilliland",
+      "link": "https://www.goodreads.com/book/show/220161038",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1736355509i/220161038.jpg",
+      "gr_id": "220161038"
+    },
+    {
+      "title": "The Women's Orchestra of Auschwitz: A Story of Survival",
+      "author": "Anne Sebba",
+      "link": "https://www.goodreads.com/book/show/222376877",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1747451958i/222376877.jpg",
+      "gr_id": "222376877"
+    },
+    {
+      "title": "Propaganda Girls: The Secret War of the Women in the OS…",
+      "author": "Lisa Rogak",
+      "link": "https://www.goodreads.com/book/show/211003699",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1718938507i/211003699.jpg",
+      "gr_id": "211003699"
+    },
+    {
+      "title": "Jane Austen's Bookshelf",
+      "author": "Rebecca Romney",
+      "link": "https://www.goodreads.com/book/show/214152206",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1719020957i/214152206.jpg",
+      "gr_id": "214152206"
+    },
+    {
+      "title": "Spitfires: The American Women Who Flew in the Face of D…",
+      "author": "Becky Aikman",
+      "link": "https://www.goodreads.com/book/show/217387767",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1728012182i/217387767.jpg",
+      "gr_id": "217387767"
+    },
+    {
+      "title": "Four Red Sweaters: Powerful True Stories of Women and t…",
+      "author": "Lucy Adlington",
+      "link": "https://www.goodreads.com/book/show/216269104",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1729113245i/216269104.jpg",
+      "gr_id": "216269104"
+    },
+    {
+      "title": "Queen of All Mayhem: The Blood-Soaked Life and Mysterio…",
+      "author": "Dane Huckelbridge",
+      "link": "https://www.goodreads.com/book/show/217432719",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1732232075i/217432719.jpg",
+      "gr_id": "217432719"
+    },
+    {
+      "title": "Expect Great Things!: How the Katharine Gibbs School Re…",
+      "author": "Vanda Krefft",
+      "link": "https://www.goodreads.com/book/show/215749015",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1721739716i/215749015.jpg",
+      "gr_id": "215749015"
+    },
+    {
+      "title": "The Rebel Romanov: Julie of Saxe-Coburg, the Empress Ru…",
+      "author": "Helen Rappaport",
+      "link": "https://www.goodreads.com/book/show/211080534",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1716457144i/211080534.jpg",
+      "gr_id": "211080534"
+    },
+    {
+      "title": "The Girl Bandits of the Warsaw Ghetto: The True Story o…",
+      "author": "Elizabeth Hyman",
+      "link": "https://www.goodreads.com/book/show/223614387",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1738227067i/223614387.jpg",
+      "gr_id": "223614387"
+    },
+    {
+      "title": "Women of War: The Italian Assassins, Spies, and Courier…",
+      "author": "Suzanne Cope",
+      "link": "https://www.goodreads.com/book/show/216970894",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1731383206i/216970894.jpg",
+      "gr_id": "216970894"
+    },
+    {
+      "title": "When We Spoke to the Dead: How Ghosts Gave American Wom…",
+      "author": "Ilise S. Carter",
+      "link": "https://www.goodreads.com/book/show/221490995",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1747242884i/221490995.jpg",
+      "gr_id": "221490995"
+    },
+    {
+      "title": "The Acid Queen: The Psychedelic Life and Counterculture…",
+      "author": "Susannah Cahalan",
+      "link": "https://www.goodreads.com/book/show/216751023",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1729015540i/216751023.jpg",
+      "gr_id": "216751023"
+    },
+    {
+      "title": "It Girl: The Life and Legacy of Jane Birkin",
+      "author": "Marisa Meltzer",
+      "link": "https://www.goodreads.com/book/show/224003940",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1745059543i/224003940.jpg",
+      "gr_id": "224003940"
+    },
+    {
+      "title": "The Sisterhood of Ravensbrück: How an Intrepid Band of …",
+      "author": "Lynne Olson",
+      "link": "https://www.goodreads.com/book/show/218153679",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1744285461i/218153679.jpg",
+      "gr_id": "218153679"
+    },
+    {
+      "title": "The Art Spy: The Extraordinary Untold Tale of WWII Resi…",
+      "author": "Michelle    Young",
+      "link": "https://www.goodreads.com/book/show/217432748",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1736965180i/217432748.jpg",
+      "gr_id": "217432748"
+    },
+    {
+      "title": "Erased: What American Patriarchy Has Hidden from Us",
+      "author": "Anna Malaika Tubbs",
+      "link": "https://www.goodreads.com/book/show/217388257",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1734383514i/217388257.jpg",
+      "gr_id": "217388257"
+    },
+    {
+      "title": "Joy Goddess: A'Lelia Walker and the Harlem Renaissance",
+      "author": "A'Lelia Bundles",
+      "link": "https://www.goodreads.com/book/show/220160410",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1736689512i/220160410.jpg",
+      "gr_id": "220160410"
+    },
+    {
+      "title": "The Sea Captain's Wife",
+      "author": "Tilar J. Mazzeo",
+      "link": "https://www.goodreads.com/book/show/222376483",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1740458781i/222376483.jpg",
+      "gr_id": "222376483"
+    },
+    {
+      "title": "Economica: A Global History of Women, Wealth, and Power",
+      "author": "Victoria Bateman",
+      "link": "https://www.goodreads.com/book/show/223296348",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1738642651i/223296348.jpg",
+      "gr_id": "223296348"
+    },
+    {
+      "title": "Wild for Austen: A Rebellious, Subversive, and Untamed …",
+      "author": "Devoney Looser",
+      "link": "https://www.goodreads.com/book/show/222376853",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1741293983i/222376853.jpg",
+      "gr_id": "222376853"
+    },
+    {
+      "title": "Intrepid Girls: The Complicated History of the Girl Sco…",
+      "author": "Amy Erdman Farrell",
+      "link": "https://www.goodreads.com/book/show/230273349",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1747010592i/230273349.jpg",
+      "gr_id": "230273349"
+    },
+    {
+      "title": "Without Fear: Black Women and the Making of Human Right…",
+      "author": "Keisha N. Blain",
+      "link": "https://www.goodreads.com/book/show/223736256",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1745363717i/223736256.jpg",
+      "gr_id": "223736256"
+    },
+    {
+      "title": "Winning the Earthquake: How Jeannette Rankin Defied All…",
+      "author": "Lorissa Rinehart",
+      "link": "https://www.goodreads.com/book/show/222376750",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1736561086i/222376750.jpg",
+      "gr_id": "222376750"
+    },
+    {
+      "title": "Without Consent",
+      "author": "Sarah Weinman",
+      "link": "https://www.goodreads.com/book/show/227884051",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1739270405i/227884051.jpg",
+      "gr_id": "227884051"
+    },
+    {
+      "title": "Motherland: A Feminist History of Modern Russia, from R…",
+      "author": "Julia Ioffe",
+      "link": "https://www.goodreads.com/book/show/199793344",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1719708497i/199793344.jpg",
+      "gr_id": "199793344"
+    },
+    {
+      "title": "With Her Own Hands: Women Weaving Their Stories",
+      "author": "Nicole Nehrig",
+      "link": "https://www.goodreads.com/book/show/218569875",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1747102177i/218569875.jpg",
+      "gr_id": "218569875"
+    },
+    {
+      "title": "Glitz, Glam, and a Damn Good Time: How Mamie Fish, Quee…",
+      "author": "Jennifer   Wright",
+      "link": "https://www.goodreads.com/book/show/218372938",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1737539610i/218372938.jpg",
+      "gr_id": "218372938"
+    },
+    {
+      "title": "Positive Obsession: The Life and Times of Octavia E. Bu…",
+      "author": "Susana M. Morris",
+      "link": "https://www.goodreads.com/book/show/221229879",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1730978862i/221229879.jpg",
+      "gr_id": "221229879"
+    },
+    {
+      "title": "For the Sun After Long Nights: The Story of Iran's Wome…",
+      "author": "Fatemeh Jamalpour",
+      "link": "https://www.goodreads.com/book/show/222683983",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1746147775i/222683983.jpg",
+      "gr_id": "222683983"
+    },
+    {
+      "title": "Paris Undercover",
+      "author": "Matthew Goodman",
+      "link": "https://www.goodreads.com/book/show/212807703",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1722135018i/212807703.jpg",
+      "gr_id": "212807703"
+    },
+    {
+      "title": "Queens at War (England's Medieval Queens, #4)",
+      "author": "Alison Weir",
+      "link": "https://www.goodreads.com/book/show/228645227",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1749639105i/228645227.jpg",
+      "gr_id": "228645227"
+    },
+    {
+      "title": "We the Women: The Hidden Heroes Who Shaped America",
+      "author": "Norah O'Donnell",
+      "link": "https://www.goodreads.com/book/show/239053259",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1753412588i/239053259.jpg",
+      "gr_id": "239053259"
+    },
+    {
+      "title": "A Woman's Work: Reclaiming the Radical History of Mothe…",
+      "author": "Elinor Cleghorn",
+      "link": "https://www.goodreads.com/book/show/236772808",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1754621783i/236772808.jpg",
+      "gr_id": "236772808"
+    },
+    {
+      "title": "The Icon and the Idealist: Margaret Sanger, Mary Ware D…",
+      "author": "Stephanie Gorton",
+      "link": "https://www.goodreads.com/book/show/200740851",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1718219164i/200740851.jpg",
+      "gr_id": "200740851"
+    },
+    {
+      "title": "Reproductive Wrongs: A Short History of Bad Ideas About…",
+      "author": "Sarah Ruden",
+      "link": "https://www.goodreads.com/book/show/233411656",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1754904138i/233411656.jpg",
+      "gr_id": "233411656"
+    },
+    {
+      "title": "A Danger to the Minds of Young Girls: Margaret C. Ander…",
+      "author": "Adam  Morgan",
+      "link": "https://www.goodreads.com/book/show/220160124",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1731244678i/220160124.jpg",
+      "gr_id": "220160124"
+    },
+    {
+      "title": "The Stolen Crown: Treachery, Deceit, and the Death of t…",
+      "author": "Tracy Borman",
+      "link": "https://www.goodreads.com/book/show/228110456",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1745596270i/228110456.jpg",
+      "gr_id": "228110456"
+    },
+    {
+      "title": "Ain't Nobody's Fool: The Life and Times of Dolly Parton",
+      "author": "Martha Ackmann",
+      "link": "https://www.goodreads.com/book/show/231127147",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1747278718i/231127147.jpg",
+      "gr_id": "231127147"
+    },
+    {
+      "title": "Crash of the Heavens: The Remarkable Story of Hannah Se…",
+      "author": "Douglas Century",
+      "link": "https://www.goodreads.com/book/show/224003984",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1747237578i/224003984.jpg",
+      "gr_id": "224003984"
+    },
+    {
+      "title": "You Can't Catch Us: Lady Bird Johnson's Trailblazing 19…",
+      "author": "Shannon McKenna Schmidt",
+      "link": "https://www.goodreads.com/book/show/234069724",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1755187954i/234069724.jpg",
+      "gr_id": "234069724"
+    },
+    {
+      "title": "Starry and Restless: Three Women Who Changed Work, Writ…",
+      "author": "Julia  Cooke",
+      "link": "https://www.goodreads.com/book/show/231126978",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1753066547i/231126978.jpg",
+      "gr_id": "231126978"
+    },
+    {
+      "title": "Rebel of the Regency: The Scandalous Saga of Caroline o…",
+      "author": "Ann Foster",
+      "link": "https://www.goodreads.com/book/show/233333678",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1753119534i/233333678.jpg",
+      "gr_id": "233333678"
+    },
+    {
+      "title": "It's No Wonder: The Life and Times of Motown's Legendar…",
+      "author": "Margena A. Christian",
+      "link": "https://www.goodreads.com/book/show/235660615",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1769718694i/235660615.jpg",
+      "gr_id": "235660615"
+    },
+    {
+      "title": "Looking at Women Looking at War: A War and Justice Diar…",
+      "author": "Victoria Amelina",
+      "link": "https://www.goodreads.com/book/show/211003691",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1718938506i/211003691.jpg",
+      "gr_id": "211003691"
+    },
+    {
+      "title": "When Women Ran Fifth Avenue: Glamour and Power at the D…",
+      "author": "Julie Satow",
+      "link": "https://www.goodreads.com/book/show/198563695",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1706020635i/198563695.jpg",
+      "gr_id": "198563695"
+    },
+    {
+      "title": "The Elements of Marie Curie: How the Glow of Radium Lit…",
+      "author": "Dava Sobel",
+      "link": "https://www.goodreads.com/book/show/208580608",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1716500981i/208580608.jpg",
+      "gr_id": "208580608"
+    },
+    {
+      "title": "The Swans of Harlem: Five Black Ballerinas, Fifty Years…",
+      "author": "Karen Valby",
+      "link": "https://www.goodreads.com/book/show/195430723",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1695736119i/195430723.jpg",
+      "gr_id": "195430723"
+    },
+    {
+      "title": "The Movement: How Women's Liberation Transformed Americ…",
+      "author": "Clara Bingham",
+      "link": "https://www.goodreads.com/book/show/199797773",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1703798301i/199797773.jpg",
+      "gr_id": "199797773"
+    },
+    {
+      "title": "The Tigerbelles: Olympic Legends from Tennessee State",
+      "author": "Aime Alley Card",
+      "link": "https://www.goodreads.com/book/show/79743331",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1706732719i/79743331.jpg",
+      "gr_id": "79743331"
+    },
+    {
+      "title": "Not Your China Doll: The Wild and Shimmering Life of An…",
+      "author": "Katie Gee Salisbury",
+      "link": "https://www.goodreads.com/book/show/177188695",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1693421599i/177188695.jpg",
+      "gr_id": "177188695"
+    },
+    {
+      "title": "Carson McCullers: A Life",
+      "author": "Mary V. Dearborn",
+      "link": "https://www.goodreads.com/book/show/165940231",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1685990526i/165940231.jpg",
+      "gr_id": "165940231"
+    },
+    {
+      "title": "The Blood Countess: Murder, Betrayal, and the Making of…",
+      "author": "Shelley Puhak",
+      "link": "https://www.goodreads.com/book/show/231387353",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1757346078i/231387353.jpg",
+      "gr_id": "231387353"
+    },
+    {
+      "title": "A Place of Our Own: Six Spaces That Shaped Queer Women'…",
+      "author": "June Thomas",
+      "link": "https://www.goodreads.com/book/show/198493709",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1704965474i/198493709.jpg",
+      "gr_id": "198493709"
+    },
+    {
+      "title": "The Bluestockings: A History of the First Women's Movem…",
+      "author": "Susannah Gibson",
+      "link": "https://www.goodreads.com/book/show/200679358",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1715030291i/200679358.jpg",
+      "gr_id": "200679358"
+    },
+    {
+      "title": "Give Her Credit",
+      "author": "Grace L. Williams",
+      "link": "https://www.goodreads.com/book/show/210669936",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1718926636i/210669936.jpg",
+      "gr_id": "210669936"
+    },
+    {
+      "title": "Women Money Power: The Rise and Fall of Economic Equali…",
+      "author": "Josie Cox",
+      "link": "https://www.goodreads.com/book/show/195660527",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1697586515i/195660527.jpg",
+      "gr_id": "195660527"
+    },
+    {
+      "title": "The Missing Thread: A Women's History of the Ancient Wo…",
+      "author": "Daisy  Dunn",
+      "link": "https://www.goodreads.com/book/show/201102381",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1703001825i/201102381.jpg",
+      "gr_id": "201102381"
+    },
+    {
+      "title": "Wages for Housework: The Feminist Fight Against Unpaid …",
+      "author": "Emily Callaci",
+      "link": "https://www.goodreads.com/book/show/215759817",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1720004435i/215759817.jpg",
+      "gr_id": "215759817"
+    },
+    {
+      "title": "Marsha: The Joy and Defiance of Marsha P. Johnson",
+      "author": "Tourmaline",
+      "link": "https://www.goodreads.com/book/show/217927404",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1729801855i/217927404.jpg",
+      "gr_id": "217927404"
+    },
+    {
+      "title": "A History of Scottish Witches: The Devil's Handmaidens",
+      "author": "Mary W. Craig",
+      "link": "https://www.goodreads.com/book/show/240381780",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1755659036i/240381780.jpg",
+      "gr_id": "240381780"
+    },
+    {
+      "title": "Thank You for Calling the Lesbian Line",
+      "author": "Elizabeth Lovatt",
+      "link": "https://www.goodreads.com/book/show/221416723",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1731864246i/221416723.jpg",
+      "gr_id": "221416723"
+    },
+    {
+      "title": "Toni at Random: The Iconic Writer’s Legendary Editorshi…",
+      "author": "Dana A. Williams",
+      "link": "https://www.goodreads.com/book/show/56816422",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1729305228i/56816422.jpg",
+      "gr_id": "56816422"
+    },
+    {
+      "title": "Sister, Sinner: The Miraculous Life and Mysterious Disa…",
+      "author": "Claire  Hoffman",
+      "link": "https://www.goodreads.com/book/show/211934917",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1738183538i/211934917.jpg",
+      "gr_id": "211934917"
+    },
+    {
+      "title": "When We Ruled: The Rise and Fall of Twelve African Quee…",
+      "author": "Paula Akpan",
+      "link": "https://www.goodreads.com/book/show/220160440",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1734907533i/220160440.jpg",
+      "gr_id": "220160440"
+    },
+    {
+      "title": "Margaret Beaufort: Survivor, Rebel, Kingmaker",
+      "author": "Lauren Johnson",
+      "link": "https://www.goodreads.com/book/show/235992964",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1749394051i/235992964.jpg",
+      "gr_id": "235992964"
+    },
+    {
+      "title": "Harriet Tubman: Military Scout and Tenacious Visionary:…",
+      "author": "Jean Marie Wiesen",
+      "link": "https://www.goodreads.com/book/show/214151830",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1719020935i/214151830.jpg",
+      "gr_id": "214151830"
+    },
+    {
+      "title": "Alice Baber: An Artist's Triumph Over Tragedy",
+      "author": "Gail Levin",
+      "link": "https://www.goodreads.com/book/show/235993023",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1772364733i/235993023.jpg",
+      "gr_id": "235993023"
+    },
+    {
+      "title": "The Rebel Empresses: Elisabeth of Austria and Eugénie o…",
+      "author": "Nancy  Goldstone",
+      "link": "https://www.goodreads.com/book/show/214175199",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1719021399i/214175199.jpg",
+      "gr_id": "214175199"
+    },
+    {
+      "title": "Erased: A History of International Thought Without Men",
+      "author": "Patricia Owens",
+      "link": "https://www.goodreads.com/book/show/211003949",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1718938521i/211003949.jpg",
+      "gr_id": "211003949"
+    },
+    {
+      "title": "Becoming the Pastor's Wife: How Marriage Replaced Ordin…",
+      "author": "Beth Allison Barr",
+      "link": "https://www.goodreads.com/book/show/214974527",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1721708798i/214974527.jpg",
+      "gr_id": "214974527"
+    },
+    {
+      "title": "Gertrude Stein: An Afterlife",
+      "author": "Francesca Wade",
+      "link": "https://www.goodreads.com/book/show/224003754",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1747237573i/224003754.jpg",
+      "gr_id": "224003754"
+    },
+    {
+      "title": "Girl on Girl: How Pop Culture Turned a Generation of Wo…",
+      "author": "Sophie Gilbert",
+      "link": "https://www.goodreads.com/book/show/216970860",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1737731201i/216970860.jpg",
+      "gr_id": "216970860"
+    },
+    {
+      "title": "The New Age of Sexism: How AI and Emerging Technologies…",
+      "author": "Laura Bates",
+      "link": "https://www.goodreads.com/book/show/220481360",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1760606628i/220481360.jpg",
+      "gr_id": "220481360"
+    },
+    {
+      "title": "Scream With Me: Horror Films and the Rise of American F…",
+      "author": "Eleanor Johnson",
+      "link": "https://www.goodreads.com/book/show/224003717",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1739423909i/224003717.jpg",
+      "gr_id": "224003717"
+    },
+    {
+      "title": "All in Her Head: The Truth and Lies Early Medicine Taug…",
+      "author": "Elizabeth Comen",
+      "link": "https://www.goodreads.com/book/show/158649729",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1697828093i/158649729.jpg",
+      "gr_id": "158649729"
+    },
+    {
+      "title": "The Secret History of the Rape Kit: A True Crime Story",
+      "author": "Pagan Kennedy",
+      "link": "https://www.goodreads.com/book/show/112974865",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1713907472i/112974865.jpg",
+      "gr_id": "112974865"
+    },
+    {
+      "title": "We Are Each Other's Liberation: Black and Asian Feminis…",
+      "author": "Rachel Kuo ( Editor )",
+      "link": "https://www.goodreads.com/book/show/216526535",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1763132099i/216526535.jpg",
+      "gr_id": "216526535"
+    },
+    {
+      "title": "Unbearable: Five Women and the Perils of Pregnancy in A…",
+      "author": "Irin Carmon",
+      "link": "https://www.goodreads.com/book/show/224003802",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1747097581i/224003802.jpg",
+      "gr_id": "224003802"
+    },
+    {
+      "title": "One Bad Mother",
+      "author": "Ej Dickson",
+      "link": "https://www.goodreads.com/book/show/235991876",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1749394006i/235991876.jpg",
+      "gr_id": "235991876"
+    },
+    {
+      "title": "Good Woman: A Reckoning",
+      "author": "Savala Nolan",
+      "link": "https://www.goodreads.com/book/show/235672465",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1748952388i/235672465.jpg",
+      "gr_id": "235672465"
+    },
+    {
+      "title": "Fetishized: A Reckoning with Yellow Fever, Feminism, an…",
+      "author": "Kaila Yu",
+      "link": "https://www.goodreads.com/book/show/221754280",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1735845977i/221754280.jpg",
+      "gr_id": "221754280"
+    },
+    {
+      "title": "Single and Psycho: How Pop Culture Created the Unstable…",
+      "author": "Caroline Young",
+      "link": "https://www.goodreads.com/book/show/221836289",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1733033947i/221836289.jpg",
+      "gr_id": "221836289"
+    },
+    {
+      "title": "Culture Creep: Notes on the Pop Apocalypse",
+      "author": "Alice Bolin",
+      "link": "https://www.goodreads.com/book/show/53286990",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1732374771i/53286990.jpg",
+      "gr_id": "53286990"
+    },
+    {
+      "title": "It's Not Hysteria: Everything You Need to Know About Yo…",
+      "author": "Karen Tang",
+      "link": "https://www.goodreads.com/book/show/195790756",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1696573912i/195790756.jpg",
+      "gr_id": "195790756"
+    },
+    {
+      "title": "I'm Sorry for My Loss: An Urgent Examination of Reprodu…",
+      "author": "Rebecca Little and Colleen Long",
+      "link": "https://www.goodreads.com/book/show/203751764",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1710872482i/203751764.jpg",
+      "gr_id": "203751764"
+    },
+    {
+      "title": "Dare I Say It: Everything I Wish I'd Known About Menopa…",
+      "author": "Naomi Watts",
+      "link": "https://www.goodreads.com/book/show/216351864",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1724134873i/216351864.jpg",
+      "gr_id": "216351864"
+    },
+    {
+      "title": "The Furies: Women, Vengeance, and Justice",
+      "author": "Elizabeth  Flock",
+      "link": "https://www.goodreads.com/book/show/123279482",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1683571747i/123279482.jpg",
+      "gr_id": "123279482"
+    },
+    {
+      "title": "Pixel Flesh: How Toxic Beauty Culture Harms Women",
+      "author": "Ellen Atlanta",
+      "link": "https://www.goodreads.com/book/show/195791053",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1704254018i/195791053.jpg",
+      "gr_id": "195791053"
+    },
+    {
+      "title": "Digital Girlhoods",
+      "author": "Katherine A. Phelps",
+      "link": "https://www.goodreads.com/book/show/211812864",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1718969865i/211812864.jpg",
+      "gr_id": "211812864"
+    },
+    {
+      "title": "Blood: The Science, Medicine, and Mythology of Menstrua…",
+      "author": "Jennifer Gunter",
+      "link": "https://www.goodreads.com/book/show/75496481",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1684819411i/75496481.jpg",
+      "gr_id": "75496481"
+    },
+    {
+      "title": "American Woman: The Transformation of the Modern First …",
+      "author": "Katie Rogers",
+      "link": "https://www.goodreads.com/book/show/71872839",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1697024688i/71872839.jpg",
+      "gr_id": "71872839"
+    },
+    {
+      "title": "If You Can't Take the Heat: Tales of Food, Feminism, an…",
+      "author": "Geraldine DeRuiter",
+      "link": "https://www.goodreads.com/book/show/177186058",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1690919153i/177186058.jpg",
+      "gr_id": "177186058"
+    },
+    {
+      "title": "Housewife: Why Women Still Do It All and What to Do Ins…",
+      "author": "Lisa Selin Davis",
+      "link": "https://www.goodreads.com/book/show/182761607",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1699120090i/182761607.jpg",
+      "gr_id": "182761607"
+    },
+    {
+      "title": "This Thread of Gold: A Celebration of Black Womanhood",
+      "author": "Catherine Joy White",
+      "link": "https://www.goodreads.com/book/show/198563711",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1705594954i/198563711.jpg",
+      "gr_id": "198563711"
+    },
+    {
+      "title": "The Return of the Housewife: Why Women Are Still Cleani…",
+      "author": "Emma Casey",
+      "link": "https://www.goodreads.com/book/show/217452171",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1729045267i/217452171.jpg",
+      "gr_id": "217452171"
+    }
+  ],
+  "source_urls": [
+    "https://www.goodreads.com/blog/show/3042?ref=gradp_herstory"
+  ]
+}
