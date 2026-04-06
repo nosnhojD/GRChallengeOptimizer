@@ -320,7 +320,23 @@ function hydrateFromArtifact(a){
 
   const allAchNames = new Set();
   (a && a.achievements ? a.achievements : []).forEach(ach => allAchNames.add(ach.name));
+
+const validAchNames = new Set(allAchNames);
+
+// Remove any persisted/stale selections that do not exist in this artifact
+FILTERS.achievements = new Set(
+  Array.from(FILTERS.achievements).filter(name => validAchNames.has(name))
+);
+
+// If you want extra safety, also clear impossible ALL-mode state
+if(FILTERS.achievements.size === 0){
+  FILTERS.achMode = "any";
+  if(els.achModeSel) els.achModeSel.value = "any";
+}
+
   buildAchChips(Array.from(allAchNames).sort());
+
+  
 }
 
 function buildAchChips(names){
