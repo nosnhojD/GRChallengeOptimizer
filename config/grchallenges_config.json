@@ -2,7 +2,7 @@
   "run_label": "goodreads_v2_preflight",
   "output": {
     "year": 2026,
-    "season": "Winter",
+    "season": "Spring",
     "path": "./data/{year}/{season}.json"
   },
   "csv_debug_path": "./data/debug_latest.csv",
@@ -15,46 +15,46 @@
   "achievements": [
   {
     "enabled": true,
-    "name": "Choice Archive",
-    "url": "https://www.goodreads.com/blog/show/3038?ref=gradp_choicearchive",
+    "name": "Trending Books",
+    "url": "https://www.goodreads.com/blog/show/3079?ref=gradp_trendingbooks",
     "expected_min": 120,
     "expected_max": 160,
-    "release_date": "2026-01-01"
+    "release_date": "2026-04-01"
   },
   {
     "enabled": true,
-    "name": "Challenge Faves",
-    "url": "https://www.goodreads.com/blog/show/3029?ref=gradp_challengefaves",
-    "expected_min": 140,
-    "expected_max": 170,
-    "release_date": "2026-01-01"
+    "name": "Community Picks",
+    "url": "https://www.goodreads.com/blog/show/3093?ref=gradp_communitypicks",
+    "expected_min": 120,
+    "expected_max": 160,
+    "release_date": "2026-04-01"
   },
   {
     "enabled": true,
-    "name": "Lasting Reads",
-    "url": "https://www.goodreads.com/blog/show/3040?ref=gradp_lastingreads",
+    "name": "Marathon Reader",
+    "url": "https://www.goodreads.com/blog/show/3087?ref=gradp_marathonreader",
     "expected_min": 90,
     "expected_max": 110,
-    "release_date": "2026-01-01"
+    "release_date": "2026-04-01"
   },
   {
     "enabled": true,
-    "name": "Star Selections",
-    "url": "https://www.goodreads.com/blog/show/3039?ref=gradp_starselections",
+    "name": "Editors Picks",
+    "url": "https://www.goodreads.com/blog/show/3089?ref=gradp_editorspicks",
     "expected_min": 80,
     "expected_max": 100,
-    "release_date": "2026-01-01"
+    "release_date": "2026-04-01"
   },
   {
     "enabled": true,
-    "name": "Tale Spinners",
-    "url": "https://www.goodreads.com/blog/show/3043?ref=gradp_talespinners",
-    "expected_min": 190,
-    "expected_max": 210,
-    "release_date": "2026-01-01"
+    "name": "Books on Books",
+    "url": "https://www.goodreads.com/blog/show/3090?ref=gradp_booksonbooks",
+    "expected_min": 130,
+    "expected_max": 160,
+    "release_date": "2026-04-15"
   },
   {
-    "enabled": true,
+    "enabled": false,
     "name": "Black Heritage",
     "url": "https://www.goodreads.com/blog/show/3041?ref=gradp_blackheritage",
     "expected_min": 110,
@@ -62,7 +62,7 @@
     "release_date": "2026-02-01"
   },
    {
-    "enabled": true,
+    "enabled": false,
     "name": "Swoony Stories",
     "url": "https://www.goodreads.com/blog/show/3049?ref=gradp_swoonystories",
     "expected_min": 130,
@@ -70,11 +70,19 @@
     "release_date": "2026-02-01"
   },
    {
-    "enabled": true,
+    "enabled": false,
     "name": "Persona Picks",
     "url": "https://www.goodreads.com/blog/show/3050?ref=gradp_personapicks",
     "expected_min": 120,
     "expected_max": 150,
+    "release_date": "2026-02-15"
+  },
+  {
+    "enabled": false,
+    "name": "Her Story",
+    "url": "https://www.goodreads.com/blog/show/3042?ref=gradp_herstory",
+    "expected_min": 90,
+    "expected_max": 120,
     "release_date": "2026-02-15"
   },
      {
