@@ -54,12 +54,12 @@
     "release_date": "2026-04-15"
   },
   {
-    "enabled": false,
-    "name": "Black Heritage",
-    "url": "https://www.goodreads.com/blog/show/3041?ref=gradp_blackheritage",
-    "expected_min": 110,
-    "expected_max": 140,
-    "release_date": "2026-02-01"
+    "enabled": true,
+    "name": "AAPI Heritage",
+    "url": "https://www.goodreads.com/blog/show/3048?ref=gradp_aapiheritage",
+    "expected_min": 130,
+    "expected_max": 160,
+    "release_date": "2026-05-01"
   },
    {
     "enabled": false,

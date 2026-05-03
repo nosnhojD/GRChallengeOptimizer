@@ -82,6 +82,14 @@
           "icon_url": "https://m.media-amazon.com/images/G/01/RC/Goodreads2026SpringSeasonalChallenge_BooksonBooks_e6570bea-ac42-4ed9-a327-f5cc0dfbf7a9.png",
           "goodreads_url": "https://www.goodreads.com/readingchallenges/achievements/dp/ba8b44ef-8667-477a-a477-9d5db23fe56c",
           "artifact_name_match": "Books on Books"
+        },
+        {
+          "id": "spring26_AAPI_Heritage",
+          "type": "book_list",
+          "name": "AAPI Heritage",
+          "icon_url": "https://m.media-amazon.com/images/G/01/RC/Goodreads2026SpringSeasonalChallenge_AAPIHeritage_c39522f4-51b3-4357-beae-865d2980fa70.png",
+          "goodreads_url": "https://www.goodreads.com/readingchallenges/achievements/dp/be031545-001e-4e91-a5cb-71bef4c726fc",
+          "artifact_name_match": "AAPI Heritage"
         }
         
       ]
