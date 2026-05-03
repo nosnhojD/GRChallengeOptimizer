@@ -1,0 +1,1023 @@
+{
+  "generated_at": "2026-04-18T22:22:06Z",
+  "season": {
+    "year": "2026",
+    "name": "Spring"
+  },
+  "name": "Books on Books",
+  "source_url": "https://www.goodreads.com/blog/show/3090?ref=gradp_booksonbooks",
+  "book_count": 144,
+  "books": [
+    {
+      "title": "The Correspondent",
+      "author": "Virginia      Evans",
+      "link": "https://www.goodreads.com/book/show/223001257",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1735235942i/223001257.jpg",
+      "gr_id": "223001257"
+    },
+    {
+      "title": "People Like Us",
+      "author": "Jason Mott",
+      "link": "https://www.goodreads.com/book/show/221251749",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1740424709i/221251749.jpg",
+      "gr_id": "221251749"
+    },
+    {
+      "title": "What We Can Know",
+      "author": "Ian McEwan",
+      "link": "https://www.goodreads.com/book/show/223854881",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1776242135i/223854881.jpg",
+      "gr_id": "223854881"
+    },
+    {
+      "title": "Discipline",
+      "author": "Larissa Pham",
+      "link": "https://www.goodreads.com/book/show/231681778",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1753353325i/231681778.jpg",
+      "gr_id": "231681778"
+    },
+    {
+      "title": "Death of the Author",
+      "author": "Nnedi Okorafor",
+      "link": "https://www.goodreads.com/book/show/214283593",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1736814296i/214283593.jpg",
+      "gr_id": "214283593"
+    },
+    {
+      "title": "The Award",
+      "author": "Matthew Pearl",
+      "link": "https://www.goodreads.com/book/show/228665865",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1753459029i/228665865.jpg",
+      "gr_id": "228665865"
+    },
+    {
+      "title": "Son of Nobody",
+      "author": "Yann Martel",
+      "link": "https://www.goodreads.com/book/show/233411679",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1753453851i/233411679.jpg",
+      "gr_id": "233411679"
+    },
+    {
+      "title": "Is This a Cry for Help?",
+      "author": "Emily R. Austin",
+      "link": "https://www.goodreads.com/book/show/235993013",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1749393987i/235993013.jpg",
+      "gr_id": "235993013"
+    },
+    {
+      "title": "Love",
+      "author": "the Book",
+      "link": "https://www.goodreads.com/book/show/231127042",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1751287829i/231127042.jpg",
+      "gr_id": "231127042"
+    },
+    {
+      "title": "The Lost Book of Elizabeth Barton",
+      "author": "Jennifer N. Brown",
+      "link": "https://www.goodreads.com/book/show/231126959",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1750428558i/231126959.jpg",
+      "gr_id": "231126959"
+    },
+    {
+      "title": "The Adjunct",
+      "author": "Maria Adelmann",
+      "link": "https://www.goodreads.com/book/show/235992288",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1749394004i/235992288.jpg",
+      "gr_id": "235992288"
+    },
+    {
+      "title": "We Love You, Bunny (Bunny, #2)",
+      "author": "Mona Awad",
+      "link": "https://www.goodreads.com/book/show/220595449",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1739832230i/220595449.jpg",
+      "gr_id": "220595449"
+    },
+    {
+      "title": "Trust",
+      "author": "Hernan Diaz",
+      "link": "https://www.goodreads.com/book/show/58210933",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1631246461i/58210933.jpg",
+      "gr_id": "58210933"
+    },
+    {
+      "title": "The City and Its Uncertain Walls",
+      "author": "Haruki Murakami",
+      "link": "https://www.goodreads.com/book/show/209192695",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1709742028i/209192695.jpg",
+      "gr_id": "209192695"
+    },
+    {
+      "title": "More Than Enough",
+      "author": "Anna Quindlen",
+      "link": "https://www.goodreads.com/book/show/234943545",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1749782901i/234943545.jpg",
+      "gr_id": "234943545"
+    },
+    {
+      "title": "Our Missing Hearts",
+      "author": "Celeste Ng",
+      "link": "https://www.goodreads.com/book/show/60149573",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1664802258i/60149573.jpg",
+      "gr_id": "60149573"
+    },
+    {
+      "title": "Writers & Lovers",
+      "author": "Lily King",
+      "link": "https://www.goodreads.com/book/show/45289222",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1580228175i/45289222.jpg",
+      "gr_id": "45289222"
+    },
+    {
+      "title": "The Ending Writes Itself",
+      "author": "Evelyn Clarke",
+      "link": "https://www.goodreads.com/book/show/236447384",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1755804731i/236447384.jpg",
+      "gr_id": "236447384"
+    },
+    {
+      "title": "Woman Down",
+      "author": "Colleen Hoover",
+      "link": "https://www.goodreads.com/book/show/241458703",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1757522888i/241458703.jpg",
+      "gr_id": "241458703"
+    },
+    {
+      "title": "How to Get Away with Murder",
+      "author": "Rebecca Philipson",
+      "link": "https://www.goodreads.com/book/show/231126906",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1747195058i/231126906.jpg",
+      "gr_id": "231126906"
+    },
+    {
+      "title": "Yellowface",
+      "author": "R.F. Kuang",
+      "link": "https://www.goodreads.com/book/show/62047984",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1671336608i/62047984.jpg",
+      "gr_id": "62047984"
+    },
+    {
+      "title": "Harlem Rhapsody",
+      "author": "Victoria Christopher Murray",
+      "link": "https://www.goodreads.com/book/show/212806640",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1725740149i/212806640.jpg",
+      "gr_id": "212806640"
+    },
+    {
+      "title": "Bitter Sweet",
+      "author": "Hattie Williams",
+      "link": "https://www.goodreads.com/book/show/220239023",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1734118655i/220239023.jpg",
+      "gr_id": "220239023"
+    },
+    {
+      "title": "The Queens of Crime",
+      "author": "Marie Benedict",
+      "link": "https://www.goodreads.com/book/show/211003830",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1718938514i/211003830.jpg",
+      "gr_id": "211003830"
+    },
+    {
+      "title": "After Hours at Dooryard Books",
+      "author": "Cat Sebastian",
+      "link": "https://www.goodreads.com/book/show/240719965",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1756317242i/240719965.jpg",
+      "gr_id": "240719965"
+    },
+    {
+      "title": "Colored Television",
+      "author": "Danzy Senna",
+      "link": "https://www.goodreads.com/book/show/201102398",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1707408098i/201102398.jpg",
+      "gr_id": "201102398"
+    },
+    {
+      "title": "Book Lovers",
+      "author": "Emily Henry",
+      "link": "https://www.goodreads.com/book/show/58690308",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1638867089i/58690308.jpg",
+      "gr_id": "58690308"
+    },
+    {
+      "title": "The Astral Library",
+      "author": "Kate Quinn",
+      "link": "https://www.goodreads.com/book/show/235289982",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1754494352i/235289982.jpg",
+      "gr_id": "235289982"
+    },
+    {
+      "title": "This Kingdom Will Not Kill Me (Maggie the Undying, #1)",
+      "author": "Ilona Andrews",
+      "link": "https://www.goodreads.com/book/show/231680045",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1752023089i/231680045.jpg",
+      "gr_id": "231680045"
+    },
+    {
+      "title": "The Book Witch",
+      "author": "Meg Shaffer",
+      "link": "https://www.goodreads.com/book/show/238226952",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1752075402i/238226952.jpg",
+      "gr_id": "238226952"
+    },
+    {
+      "title": "How to Write a Love Story",
+      "author": "Catherine  Walsh",
+      "link": "https://www.goodreads.com/book/show/236847870",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1754070948i/236847870.jpg",
+      "gr_id": "236847870"
+    },
+    {
+      "title": "Murder Your Darlings",
+      "author": "Jenna Blum",
+      "link": "https://www.goodreads.com/book/show/231388851",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1756926049i/231388851.jpg",
+      "gr_id": "231388851"
+    },
+    {
+      "title": "The Everlasting",
+      "author": "Alix E. Harrow",
+      "link": "https://www.goodreads.com/book/show/226850464",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1747325267i/226850464.jpg",
+      "gr_id": "226850464"
+    },
+    {
+      "title": "A Novel Love Story",
+      "author": "Ashley Poston",
+      "link": "https://www.goodreads.com/book/show/199261152",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1701764747i/199261152.jpg",
+      "gr_id": "199261152"
+    },
+    {
+      "title": "The Glowing Hours",
+      "author": "Leila Siddiqui",
+      "link": "https://www.goodreads.com/book/show/232794118",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1746759021i/232794118.jpg",
+      "gr_id": "232794118"
+    },
+    {
+      "title": "The Ghostwriter",
+      "author": "Julie Clark",
+      "link": "https://www.goodreads.com/book/show/218644981",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1728064211i/218644981.jpg",
+      "gr_id": "218644981"
+    },
+    {
+      "title": "It's Me They Follow",
+      "author": "Jeannine A. Cook",
+      "link": "https://www.goodreads.com/book/show/222904031",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1750089269i/222904031.jpg",
+      "gr_id": "222904031"
+    },
+    {
+      "title": "Ladies in Hating (Belvoir's Library, #3)",
+      "author": "Alexandra Vasti",
+      "link": "https://www.goodreads.com/book/show/222376849",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1736467181i/222376849.jpg",
+      "gr_id": "222376849"
+    },
+    {
+      "title": "The Lost Story of Eva Fuentes",
+      "author": "Chanel Cleeton",
+      "link": "https://www.goodreads.com/book/show/220239094",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1733947265i/220239094.jpg",
+      "gr_id": "220239094"
+    },
+    {
+      "title": "The Quiet Librarian",
+      "author": "Allen Eskens",
+      "link": "https://www.goodreads.com/book/show/214175092",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1730748199i/214175092.jpg",
+      "gr_id": "214175092"
+    },
+    {
+      "title": "The Library of Fates",
+      "author": "Margot Harrison",
+      "link": "https://www.goodreads.com/book/show/223421690",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1743915098i/223421690.jpg",
+      "gr_id": "223421690"
+    },
+    {
+      "title": "The Missing Pages",
+      "author": "Alyson Richman",
+      "link": "https://www.goodreads.com/book/show/227991193",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1745302653i/227991193.jpg",
+      "gr_id": "227991193"
+    },
+    {
+      "title": "The Busybody Book Club",
+      "author": "Freya Sampson",
+      "link": "https://www.goodreads.com/book/show/218153882",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1733780119i/218153882.jpg",
+      "gr_id": "218153882"
+    },
+    {
+      "title": "The Book of Lost Hours",
+      "author": "Hayley Gelfuso",
+      "link": "https://www.goodreads.com/book/show/220161572",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1733864413i/220161572.jpg",
+      "gr_id": "220161572"
+    },
+    {
+      "title": "How to Grieve Like a Victorian: A funny, heartwarming l…",
+      "author": "Amy Carol Reeves",
+      "link": "https://www.goodreads.com/book/show/220140292",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1745926573i/220140292.jpg",
+      "gr_id": "220140292"
+    },
+    {
+      "title": "Cloud Cuckoo Land",
+      "author": "Anthony Doerr",
+      "link": "https://www.goodreads.com/book/show/56783258",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1618589128i/56783258.jpg",
+      "gr_id": "56783258"
+    },
+    {
+      "title": "The Sentence",
+      "author": "Louise Erdrich",
+      "link": "https://www.goodreads.com/book/show/56816904",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1630063344i/56816904.jpg",
+      "gr_id": "56816904"
+    },
+    {
+      "title": "Book of Forbidden Words",
+      "author": "Louise Fein",
+      "link": "https://www.goodreads.com/book/show/234313845",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1749896824i/234313845.jpg",
+      "gr_id": "234313845"
+    },
+    {
+      "title": "The Unwritten Rules of Magic",
+      "author": "Harper  Ross",
+      "link": "https://www.goodreads.com/book/show/231127286",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1746968523i/231127286.jpg",
+      "gr_id": "231127286"
+    },
+    {
+      "title": "Disorientation",
+      "author": "Elaine Hsieh Chou",
+      "link": "https://www.goodreads.com/book/show/58350424",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1630950230i/58350424.jpg",
+      "gr_id": "58350424"
+    },
+    {
+      "title": "The Book Eaters",
+      "author": "Sunyi Dean",
+      "link": "https://www.goodreads.com/book/show/58724745",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1634139994i/58724745.jpg",
+      "gr_id": "58724745"
+    },
+    {
+      "title": "The Write Off",
+      "author": "Kara McDowell",
+      "link": "https://www.goodreads.com/book/show/238227084",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1768253399i/238227084.jpg",
+      "gr_id": "238227084"
+    },
+    {
+      "title": "Malice House",
+      "author": "Megan Shepherd",
+      "link": "https://www.goodreads.com/book/show/59851359",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1647349142i/59851359.jpg",
+      "gr_id": "59851359"
+    },
+    {
+      "title": "Who Is Maud Dixon?",
+      "author": "Alexandra  Andrews",
+      "link": "https://www.goodreads.com/book/show/52320705",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1602084519i/52320705.jpg",
+      "gr_id": "52320705"
+    },
+    {
+      "title": "By Any Other Name",
+      "author": "Jodi Picoult",
+      "link": "https://www.goodreads.com/book/show/203337138",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1706883298i/203337138.jpg",
+      "gr_id": "203337138"
+    },
+    {
+      "title": "How to Survive a Horror Story",
+      "author": "Mallory Arnold",
+      "link": "https://www.goodreads.com/book/show/219542927",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1749661940i/219542927.jpg",
+      "gr_id": "219542927"
+    },
+    {
+      "title": "The Reading List",
+      "author": "Sara Nisha Adams",
+      "link": "https://www.goodreads.com/book/show/55276648",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1611366574i/55276648.jpg",
+      "gr_id": "55276648"
+    },
+    {
+      "title": "Welcome to the Hyunam-dong Bookshop",
+      "author": "Hwang Bo-Reum",
+      "link": "https://www.goodreads.com/book/show/199437939",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1706894269i/199437939.jpg",
+      "gr_id": "199437939"
+    },
+    {
+      "title": "How to Read a Book",
+      "author": "Monica Wood",
+      "link": "https://www.goodreads.com/book/show/62365896",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1668464017i/62365896.jpg",
+      "gr_id": "62365896"
+    },
+    {
+      "title": "The Personal Librarian",
+      "author": "Marie Benedict",
+      "link": "https://www.goodreads.com/book/show/55333938",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1610646708i/55333938.jpg",
+      "gr_id": "55333938"
+    },
+    {
+      "title": "The Bookstore Diaries",
+      "author": "Susan Mallery",
+      "link": "https://www.goodreads.com/book/show/234041217",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1761983037i/234041217.jpg",
+      "gr_id": "234041217"
+    },
+    {
+      "title": "The Book Tour",
+      "author": "Emily Ohanjanians",
+      "link": "https://www.goodreads.com/book/show/235699965",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1750301112i/235699965.jpg",
+      "gr_id": "235699965"
+    },
+    {
+      "title": "The Secret Book Society",
+      "author": "Madeline  Martin",
+      "link": "https://www.goodreads.com/book/show/222850723",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1744912178i/222850723.jpg",
+      "gr_id": "222850723"
+    },
+    {
+      "title": "The Last Word",
+      "author": "Taylor  Adams",
+      "link": "https://www.goodreads.com/book/show/61767163",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1662125880i/61767163.jpg",
+      "gr_id": "61767163"
+    },
+    {
+      "title": "You Are Fatally Invited",
+      "author": "Ande Pliego",
+      "link": "https://www.goodreads.com/book/show/213243937",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1721680180i/213243937.jpg",
+      "gr_id": "213243937"
+    },
+    {
+      "title": "Jane and Dan at the End of the World",
+      "author": "Colleen Oakley",
+      "link": "https://www.goodreads.com/book/show/214268974",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1724179029i/214268974.jpg",
+      "gr_id": "214268974"
+    },
+    {
+      "title": "The Bookbinder's Secret",
+      "author": "A.D.  Bell",
+      "link": "https://www.goodreads.com/book/show/231127283",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1748615997i/231127283.jpg",
+      "gr_id": "231127283"
+    },
+    {
+      "title": "Ghost Town",
+      "author": "Tom Perrotta",
+      "link": "https://www.goodreads.com/book/show/235991946",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1749394044i/235991946.jpg",
+      "gr_id": "235991946"
+    },
+    {
+      "title": "Not in My Book",
+      "author": "Katie  Holt",
+      "link": "https://www.goodreads.com/book/show/203194039",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1716987845i/203194039.jpg",
+      "gr_id": "203194039"
+    },
+    {
+      "title": "Lula Dean's Little Library of Banned Books",
+      "author": "Kirsten Miller",
+      "link": "https://www.goodreads.com/book/show/200987258",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1702307118i/200987258.jpg",
+      "gr_id": "200987258"
+    },
+    {
+      "title": "The Echo of Old Books",
+      "author": "Barbara  Davis",
+      "link": "https://www.goodreads.com/book/show/62060282",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1670573394i/62060282.jpg",
+      "gr_id": "62060282"
+    },
+    {
+      "title": "Ink Blood Sister Scribe",
+      "author": "Emma Törzs",
+      "link": "https://www.goodreads.com/book/show/62854842",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1685457125i/62854842.jpg",
+      "gr_id": "62854842"
+    },
+    {
+      "title": "A Lady for All Seasons",
+      "author": "T.J.   Alexander",
+      "link": "https://www.goodreads.com/book/show/236115757",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1753237911i/236115757.jpg",
+      "gr_id": "236115757"
+    },
+    {
+      "title": "The Finest Print",
+      "author": "Erin Langston",
+      "link": "https://www.goodreads.com/book/show/219298188",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1726611634i/219298188.jpg",
+      "gr_id": "219298188"
+    },
+    {
+      "title": "The Watermark",
+      "author": "Sam Mills",
+      "link": "https://www.goodreads.com/book/show/216190434",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1725048151i/216190434.jpg",
+      "gr_id": "216190434"
+    },
+    {
+      "title": "The Sisters of Book Row",
+      "author": "Shelley Noble",
+      "link": "https://www.goodreads.com/book/show/235672415",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1752379185i/235672415.jpg",
+      "gr_id": "235672415"
+    },
+    {
+      "title": "This Book Made Me Think of You",
+      "author": "Libby  Page",
+      "link": "https://www.goodreads.com/book/show/232794526",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1754576850i/232794526.jpg",
+      "gr_id": "232794526"
+    },
+    {
+      "title": "Finders Keepers",
+      "author": "Natalie Barelli",
+      "link": "https://www.goodreads.com/book/show/227948521",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1755832850i/227948521.jpg",
+      "gr_id": "227948521"
+    },
+    {
+      "title": "That's Not How It Happened",
+      "author": "Craig   Thomas",
+      "link": "https://www.goodreads.com/book/show/226388148",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1747285584i/226388148.jpg",
+      "gr_id": "226388148"
+    },
+    {
+      "title": "An Academic Affair",
+      "author": "Jodi McAlister",
+      "link": "https://www.goodreads.com/book/show/224003821",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1743882229i/224003821.jpg",
+      "gr_id": "224003821"
+    },
+    {
+      "title": "The Book of Records",
+      "author": "Madeleine Thien",
+      "link": "https://www.goodreads.com/book/show/218569917",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1729195173i/218569917.jpg",
+      "gr_id": "218569917"
+    },
+    {
+      "title": "The Charmed Library",
+      "author": "Jennifer Moorman",
+      "link": "https://www.goodreads.com/book/show/229098217",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1743039463i/229098217.jpg",
+      "gr_id": "229098217"
+    },
+    {
+      "title": "The Dictionary of Lost Words",
+      "author": "Pip Williams",
+      "link": "https://www.goodreads.com/book/show/54814839",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1599246306i/54814839.jpg",
+      "gr_id": "54814839"
+    },
+    {
+      "title": "What You Are Looking for Is in the Library",
+      "author": "Michiko Aoyama",
+      "link": "https://www.goodreads.com/book/show/91274427",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1683915876i/91274427.jpg",
+      "gr_id": "91274427"
+    },
+    {
+      "title": "The Paris Library",
+      "author": "Janet Skeslien Charles",
+      "link": "https://www.goodreads.com/book/show/52761909",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1583066862i/52761909.jpg",
+      "gr_id": "52761909"
+    },
+    {
+      "title": "The Book That Wouldn’t Burn (The Library Trilogy, #1)",
+      "author": "Mark  Lawrence",
+      "link": "https://www.goodreads.com/book/show/61612864",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1673645786i/61612864.jpg",
+      "gr_id": "61612864"
+    },
+    {
+      "title": "No Two Persons",
+      "author": "Erica Bauermeister",
+      "link": "https://www.goodreads.com/book/show/60196684",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1681905085i/60196684.jpg",
+      "gr_id": "60196684"
+    },
+    {
+      "title": "The Plot (The Book Series, #1)",
+      "author": "Jean Hanff Korelitz",
+      "link": "https://www.goodreads.com/book/show/55315487",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1626185013i/55315487.jpg",
+      "gr_id": "55315487"
+    },
+    {
+      "title": "The Banned Bookshop of Maggie Banks",
+      "author": "Shauna Robinson",
+      "link": "https://www.goodreads.com/book/show/60305890",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1656935759i/60305890.jpg",
+      "gr_id": "60305890"
+    },
+    {
+      "title": "Thank You for Listening",
+      "author": "Julia  Whelan",
+      "link": "https://www.goodreads.com/book/show/59314703",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1652105760i/59314703.jpg",
+      "gr_id": "59314703"
+    },
+    {
+      "title": "The Book of Form and Emptiness",
+      "author": "Ruth Ozeki",
+      "link": "https://www.goodreads.com/book/show/57004637",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1623850374i/57004637.jpg",
+      "gr_id": "57004637"
+    },
+    {
+      "title": "Battle of the Bookstores",
+      "author": "Ali Brady",
+      "link": "https://www.goodreads.com/book/show/218460257",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1733976546i/218460257.jpg",
+      "gr_id": "218460257"
+    },
+    {
+      "title": "Seven Days in June",
+      "author": "Tia Williams",
+      "link": "https://www.goodreads.com/book/show/57378707",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1622564764i/57378707.jpg",
+      "gr_id": "57378707"
+    },
+    {
+      "title": "The Cemetery of Untold Stories",
+      "author": "Julia Alvarez",
+      "link": "https://www.goodreads.com/book/show/195820829",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1693339977i/195820829.jpg",
+      "gr_id": "195820829"
+    },
+    {
+      "title": "The Neighbor Favor (The Greene Sisters, #1)",
+      "author": "Kristina Forest",
+      "link": "https://www.goodreads.com/book/show/61111295",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1664245474i/61111295.jpg",
+      "gr_id": "61111295"
+    },
+    {
+      "title": "The Twyford Code",
+      "author": "Janice Hallett",
+      "link": "https://www.goodreads.com/book/show/61411926",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1657327973i/61411926.jpg",
+      "gr_id": "61411926"
+    },
+    {
+      "title": "By the Book (Meant to Be, #2)",
+      "author": "Jasmine Guillory",
+      "link": "https://www.goodreads.com/book/show/58950845",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1633851071i/58950845.jpg",
+      "gr_id": "58950845"
+    },
+    {
+      "title": "Once Upon a Time in Dollywood",
+      "author": "Ashley  Jordan",
+      "link": "https://www.goodreads.com/book/show/223854466",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1747277369i/223854466.jpg",
+      "gr_id": "223854466"
+    },
+    {
+      "title": "Or What You Will",
+      "author": "Jo Walton",
+      "link": "https://www.goodreads.com/book/show/45174884",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1563305326i/45174884.jpg",
+      "gr_id": "45174884"
+    },
+    {
+      "title": "Everyone on This Train Is a Suspect (Ernest Cunningham,…",
+      "author": "Benjamin   Stevenson",
+      "link": "https://www.goodreads.com/book/show/167006698",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1692905897i/167006698.jpg",
+      "gr_id": "167006698"
+    },
+    {
+      "title": "This Book Won't Burn",
+      "author": "Samira Ahmed",
+      "link": "https://www.goodreads.com/book/show/198493806",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1696097595i/198493806.jpg",
+      "gr_id": "198493806"
+    },
+    {
+      "title": "Marble Hall Murders (Susan Ryeland, #3)",
+      "author": "Anthony Horowitz",
+      "link": "https://www.goodreads.com/book/show/217432789",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1738191675i/217432789.jpg",
+      "gr_id": "217432789"
+    },
+    {
+      "title": "The Book Censor's Library",
+      "author": "Bothayna Al-Essa",
+      "link": "https://www.goodreads.com/book/show/175678711",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1696977361i/175678711.jpg",
+      "gr_id": "175678711"
+    },
+    {
+      "title": "The Book Club for Troublesome Women",
+      "author": "Marie Bostwick",
+      "link": "https://www.goodreads.com/book/show/216052751",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1721742075i/216052751.jpg",
+      "gr_id": "216052751"
+    },
+    {
+      "title": "The Idea Machine: How Books Built Our World and Shape O…",
+      "author": "Joel J. Miller",
+      "link": "https://www.goodreads.com/book/show/223358375",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1741058544i/223358375.jpg",
+      "gr_id": "223358375"
+    },
+    {
+      "title": "How to Read Now",
+      "author": "Elaine Castillo",
+      "link": "https://www.goodreads.com/book/show/60018643",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1645472785i/60018643.jpg",
+      "gr_id": "60018643"
+    },
+    {
+      "title": "Every Day I Read: 53 Ways to Get Closer to Books",
+      "author": "Hwang Bo-Reum",
+      "link": "https://www.goodreads.com/book/show/223319316",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1775749910i/223319316.jpg",
+      "gr_id": "223319316"
+    },
+    {
+      "title": "Black-Owned: The Revolutionary Life of the Black Bookst…",
+      "author": "Char Adams",
+      "link": "https://www.goodreads.com/book/show/226744092",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1740428825i/226744092.jpg",
+      "gr_id": "226744092"
+    },
+    {
+      "title": "A Danger to the Minds of Young Girls: Margaret C. Ander…",
+      "author": "Adam  Morgan",
+      "link": "https://www.goodreads.com/book/show/220160124",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1731244678i/220160124.jpg",
+      "gr_id": "220160124"
+    },
+    {
+      "title": "That Librarian: The Fight Against Book Banning in Ameri…",
+      "author": "Amanda    Jones",
+      "link": "https://www.goodreads.com/book/show/203579067",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1710358438i/203579067.jpg",
+      "gr_id": "203579067"
+    },
+    {
+      "title": "These Precious Days: Essays",
+      "author": "Ann Patchett",
+      "link": "https://www.goodreads.com/book/show/56922687",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1621841000i/56922687.jpg",
+      "gr_id": "56922687"
+    },
+    {
+      "title": "Unread: A Memoir of Learning (and Loving) to Read on Ti…",
+      "author": "Oliver        James",
+      "link": "https://www.goodreads.com/book/show/235629842",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1762469503i/235629842.jpg",
+      "gr_id": "235629842"
+    },
+    {
+      "title": "One Aladdin Two Lamps",
+      "author": "Jeanette Winterson",
+      "link": "https://www.goodreads.com/book/show/234100962",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1751723888i/234100962.jpg",
+      "gr_id": "234100962"
+    },
+    {
+      "title": "Jane Austen's Bookshelf",
+      "author": "Rebecca Romney",
+      "link": "https://www.goodreads.com/book/show/214152206",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1719020957i/214152206.jpg",
+      "gr_id": "214152206"
+    },
+    {
+      "title": "Bad Indians Book Club: Reading at the Edge of a Thousan…",
+      "author": "Patty Krawec",
+      "link": "https://www.goodreads.com/book/show/222850887",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1740882571i/222850887.jpg",
+      "gr_id": "222850887"
+    },
+    {
+      "title": "The Bookshop: A History of the American Bookstore",
+      "author": "Evan Friss",
+      "link": "https://www.goodreads.com/book/show/201751300",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1705935887i/201751300.jpg",
+      "gr_id": "201751300"
+    },
+    {
+      "title": "Bookish: How Reading Shapes Our Lives",
+      "author": "Lucy Mangan",
+      "link": "https://www.goodreads.com/book/show/235992758",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1749394022i/235992758.jpg",
+      "gr_id": "235992758"
+    },
+    {
+      "title": "Monsters in the Archives: My Year of Fear with Stephen …",
+      "author": "Caroline Bicks",
+      "link": "https://www.goodreads.com/book/show/239151034",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1756902096i/239151034.jpg",
+      "gr_id": "239151034"
+    },
+    {
+      "title": "Ex Libris: 100+ Books to Read and Reread",
+      "author": "Michiko Kakutani",
+      "link": "https://www.goodreads.com/book/show/51151753",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1595269838i/51151753.jpg",
+      "gr_id": "51151753"
+    },
+    {
+      "title": "Why We Read: On Bookworms, Libraries, and Just One More…",
+      "author": "Shannon Reed",
+      "link": "https://www.goodreads.com/book/show/127975811",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1700591104i/127975811.jpg",
+      "gr_id": "127975811"
+    },
+    {
+      "title": "A Swim in a Pond in the Rain",
+      "author": "George Saunders",
+      "link": "https://www.goodreads.com/book/show/53487237",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1627489209i/53487237.jpg",
+      "gr_id": "53487237"
+    },
+    {
+      "title": "Gather Me: A Memoir in Praise of the Books That Saved M…",
+      "author": "Glory Edim",
+      "link": "https://www.goodreads.com/book/show/60372120",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1715088544i/60372120.jpg",
+      "gr_id": "60372120"
+    },
+    {
+      "title": "Read Dangerously: The Subversive Power of Literature in…",
+      "author": "Azar Nafisi",
+      "link": "https://www.goodreads.com/book/show/49867396",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1606106741i/49867396.jpg",
+      "gr_id": "49867396"
+    },
+    {
+      "title": "Bibliophobia",
+      "author": "Sarah Chihaya",
+      "link": "https://www.goodreads.com/book/show/212806663",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1721670620i/212806663.jpg",
+      "gr_id": "212806663"
+    },
+    {
+      "title": "Book and Dagger: How Scholars and Librarians Became the…",
+      "author": "Elyse Graham",
+      "link": "https://www.goodreads.com/book/show/199793672",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1714345224i/199793672.jpg",
+      "gr_id": "199793672"
+    },
+    {
+      "title": "101 Horror Books to Read Before You're Murdered",
+      "author": "Sadie Hartmann",
+      "link": "https://www.goodreads.com/book/show/61963198",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1677557229i/61963198.jpg",
+      "gr_id": "61963198"
+    },
+    {
+      "title": "The Genius of Judy: How Judy Blume Rewrote Childhood fo…",
+      "author": "Rachelle Bergstein",
+      "link": "https://www.goodreads.com/book/show/199797799",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1704254771i/199797799.jpg",
+      "gr_id": "199797799"
+    },
+    {
+      "title": "On Morrison",
+      "author": "Namwali Serpell",
+      "link": "https://www.goodreads.com/book/show/232207640",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1750091786i/232207640.jpg",
+      "gr_id": "232207640"
+    },
+    {
+      "title": "The CIA Book Club: The Secret Mission to Win the Cold W…",
+      "author": "Charlie English",
+      "link": "https://www.goodreads.com/book/show/222292403",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1738727490i/222292403.jpg",
+      "gr_id": "222292403"
+    },
+    {
+      "title": "The Toni Morrison Book Club",
+      "author": "Juda Bennett",
+      "link": "https://www.goodreads.com/book/show/52062356",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1577038241l/52062356.jpg",
+      "gr_id": "52062356"
+    },
+    {
+      "title": "Unfinished Business: Notes of a Chronic Re-reader",
+      "author": "Vivian Gornick",
+      "link": "https://www.goodreads.com/book/show/45892264",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1568274449i/45892264.jpg",
+      "gr_id": "45892264"
+    },
+    {
+      "title": "Orwell's Roses",
+      "author": "Rebecca Solnit",
+      "link": "https://www.goodreads.com/book/show/56557019",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1632461388i/56557019.jpg",
+      "gr_id": "56557019"
+    },
+    {
+      "title": "Fear Less: Poetry in Perilous Times",
+      "author": "Tracy K. Smith",
+      "link": "https://www.goodreads.com/book/show/223736217",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1747353338i/223736217.jpg",
+      "gr_id": "223736217"
+    },
+    {
+      "title": "Let the Poets Govern: A Declaration of Freedom",
+      "author": "Camonghne Felix",
+      "link": "https://www.goodreads.com/book/show/235699935",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1752635033i/235699935.jpg",
+      "gr_id": "235699935"
+    },
+    {
+      "title": "Shut Up and Read: A Memoir from Harriett’s Bookshop",
+      "author": "Jeannine A. Cook",
+      "link": "https://www.goodreads.com/book/show/236844744",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1753871419i/236844744.jpg",
+      "gr_id": "236844744"
+    },
+    {
+      "title": "Judy Blume: A Life",
+      "author": "Mark Oppenheimer",
+      "link": "https://www.goodreads.com/book/show/236116694",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1763664228i/236116694.jpg",
+      "gr_id": "236116694"
+    },
+    {
+      "title": "Positive Obsession: The Life and Times of Octavia E. Bu…",
+      "author": "Susana M. Morris",
+      "link": "https://www.goodreads.com/book/show/221228026",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1730803170i/221228026.jpg",
+      "gr_id": "221228026"
+    },
+    {
+      "title": "Gertrude Stein: An Afterlife",
+      "author": "Francesca Wade",
+      "link": "https://www.goodreads.com/book/show/224003754",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1747237573i/224003754.jpg",
+      "gr_id": "224003754"
+    },
+    {
+      "title": "Baldwin: A Love Story",
+      "author": "Nicholas Boggs",
+      "link": "https://www.goodreads.com/book/show/217387674",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1760526681i/217387674.jpg",
+      "gr_id": "217387674"
+    },
+    {
+      "title": "Mark Twain",
+      "author": "Ron Chernow",
+      "link": "https://www.goodreads.com/book/show/219158874",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1726282923i/219158874.jpg",
+      "gr_id": "219158874"
+    },
+    {
+      "title": "In the Margins: On the Pleasures of Reading and Writing",
+      "author": "Elena Ferrante",
+      "link": "https://www.goodreads.com/book/show/58949461",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1643289838i/58949461.jpg",
+      "gr_id": "58949461"
+    },
+    {
+      "title": "Unabridged: The Thrill of (and Threat to) the Modern Di…",
+      "author": "Stefan Fatsis",
+      "link": "https://www.goodreads.com/book/show/228110298",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1745594375i/228110298.jpg",
+      "gr_id": "228110298"
+    },
+    {
+      "title": "Writing During the Apocalypse: Reflections on the Great…",
+      "author": "Ed Simon",
+      "link": "https://www.goodreads.com/book/show/230791895",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1747359074i/230791895.jpg",
+      "gr_id": "230791895"
+    },
+    {
+      "title": "The Book-Makers: A History of the Book in Eighteen Live…",
+      "author": "Adam Smyth",
+      "link": "https://www.goodreads.com/book/show/195430889",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1705463614i/195430889.jpg",
+      "gr_id": "195430889"
+    }
+  ],
+  "source_urls": [
+    "https://www.goodreads.com/blog/show/3090?ref=gradp_booksonbooks"
+  ]
+}

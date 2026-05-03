@@ -1,0 +1,939 @@
+{
+  "generated_at": "2026-05-03T21:06:52Z",
+  "season": {
+    "year": "2026",
+    "name": "Spring"
+  },
+  "name": "AAPI Heritage",
+  "source_url": "https://www.goodreads.com/blog/show/3048?ref=gradp_aapiheritage",
+  "book_count": 132,
+  "books": [
+    {
+      "title": "The Last of Earth",
+      "author": "Deepa Anappara",
+      "link": "https://www.goodreads.com/book/show/231363155",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1744682228i/231363155.jpg",
+      "gr_id": "231363155"
+    },
+    {
+      "title": "My Dear You",
+      "author": "Rachel Khong",
+      "link": "https://www.goodreads.com/book/show/238226950",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1751942781i/238226950.jpg",
+      "gr_id": "238226950"
+    },
+    {
+      "title": "Dreamt I Found You",
+      "author": "Jimin Han",
+      "link": "https://www.goodreads.com/book/show/239680392",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1754521927i/239680392.jpg",
+      "gr_id": "239680392"
+    },
+    {
+      "title": "Discipline",
+      "author": "Larissa Pham",
+      "link": "https://www.goodreads.com/book/show/231681778",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1753353325i/231681778.jpg",
+      "gr_id": "231681778"
+    },
+    {
+      "title": "Under Water",
+      "author": "Tara Menon",
+      "link": "https://www.goodreads.com/book/show/236772855",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1750214109i/236772855.jpg",
+      "gr_id": "236772855"
+    },
+    {
+      "title": "All the World Can Hold",
+      "author": "Jung Yun",
+      "link": "https://www.goodreads.com/book/show/235991949",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1749399471i/235991949.jpg",
+      "gr_id": "235991949"
+    },
+    {
+      "title": "Japanese Gothic",
+      "author": "Kylie Lee Baker",
+      "link": "https://www.goodreads.com/book/show/233333688",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1751419409i/233333688.jpg",
+      "gr_id": "233333688"
+    },
+    {
+      "title": "Honey in the Wound",
+      "author": "Jiyoung Han",
+      "link": "https://www.goodreads.com/book/show/235992600",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1749431963i/235992600.jpg",
+      "gr_id": "235992600"
+    },
+    {
+      "title": "The Age of Calamities",
+      "author": "Senaa Ahmad",
+      "link": "https://www.goodreads.com/book/show/231126882",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1748569174i/231126882.jpg",
+      "gr_id": "231126882"
+    },
+    {
+      "title": "A Midnight Pastry Shop Called Hwawoldang",
+      "author": "Lee Onhwa",
+      "link": "https://www.goodreads.com/book/show/231388861",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1754416715i/231388861.jpg",
+      "gr_id": "231388861"
+    },
+    {
+      "title": "The Elsewhere Express",
+      "author": "Samantha Sotto Yambao",
+      "link": "https://www.goodreads.com/book/show/232149892",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1770389973i/232149892.jpg",
+      "gr_id": "232149892"
+    },
+    {
+      "title": "How to Commit a Postcolonial Murder",
+      "author": "Nina McConigley",
+      "link": "https://www.goodreads.com/book/show/231266757",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1744575057i/231266757.jpg",
+      "gr_id": "231266757"
+    },
+    {
+      "title": "The Poet Empress",
+      "author": "Shen Tao",
+      "link": "https://www.goodreads.com/book/show/231680079",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1769858923i/231680079.jpg",
+      "gr_id": "231680079"
+    },
+    {
+      "title": "A Beast Slinks Towards Beijing",
+      "author": "Alice Evelyn Yang",
+      "link": "https://www.goodreads.com/book/show/232241619",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1750363943i/232241619.jpg",
+      "gr_id": "232241619"
+    },
+    {
+      "title": "And the Ancestors Sing",
+      "author": "Radha Lin Chaddah",
+      "link": "https://www.goodreads.com/book/show/230600972",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1743193624i/230600972.jpg",
+      "gr_id": "230600972"
+    },
+    {
+      "title": "Bad Asians",
+      "author": "Lillian Li",
+      "link": "https://www.goodreads.com/book/show/231126783",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1747801036i/231126783.jpg",
+      "gr_id": "231126783"
+    },
+    {
+      "title": "I Love You Don't Die",
+      "author": "Jade Song",
+      "link": "https://www.goodreads.com/book/show/236643256",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1752161422i/236643256.jpg",
+      "gr_id": "236643256"
+    },
+    {
+      "title": "Crown City (Japantown Mystery #3)",
+      "author": "Naomi Hirahara",
+      "link": "https://www.goodreads.com/book/show/234353362",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1753557477i/234353362.jpg",
+      "gr_id": "234353362"
+    },
+    {
+      "title": "Hooked",
+      "author": "Asako Yuzuki",
+      "link": "https://www.goodreads.com/book/show/238969853",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1756880407i/238969853.jpg",
+      "gr_id": "238969853"
+    },
+    {
+      "title": "The Take",
+      "author": "Kelly Yang",
+      "link": "https://www.goodreads.com/book/show/235404665",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1752721645i/235404665.jpg",
+      "gr_id": "235404665"
+    },
+    {
+      "title": "Molka",
+      "author": "Monika Kim",
+      "link": "https://www.goodreads.com/book/show/228398323",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1757086542i/228398323.jpg",
+      "gr_id": "228398323"
+    },
+    {
+      "title": "The Subtle Art of Folding Space",
+      "author": "John Chu",
+      "link": "https://www.goodreads.com/book/show/231127269",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1746580232i/231127269.jpg",
+      "gr_id": "231127269"
+    },
+    {
+      "title": "Boring Asian Female",
+      "author": "Canwen Xu",
+      "link": "https://www.goodreads.com/book/show/239433082",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1753758053i/239433082.jpg",
+      "gr_id": "239433082"
+    },
+    {
+      "title": "Livonia Chow Mein",
+      "author": "Abigail Savitch-Lew",
+      "link": "https://www.goodreads.com/book/show/235992038",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1749839372i/235992038.jpg",
+      "gr_id": "235992038"
+    },
+    {
+      "title": "The Plans I Have for You",
+      "author": "Lai Sanders",
+      "link": "https://www.goodreads.com/book/show/235991889",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1749393974i/235991889.jpg",
+      "gr_id": "235991889"
+    },
+    {
+      "title": "The Valley of Vengeful Ghosts",
+      "author": "Kim Fu",
+      "link": "https://www.goodreads.com/book/show/235672472",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1750966408i/235672472.jpg",
+      "gr_id": "235672472"
+    },
+    {
+      "title": "American Han",
+      "author": "Lisa      Lee",
+      "link": "https://www.goodreads.com/book/show/238142763",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1754313123i/238142763.jpg",
+      "gr_id": "238142763"
+    },
+    {
+      "title": "Whidbey",
+      "author": "T Kira Madden",
+      "link": "https://www.goodreads.com/book/show/236079795",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1751916938i/236079795.jpg",
+      "gr_id": "236079795"
+    },
+    {
+      "title": "The Pohaku",
+      "author": "Jasmin Iolani Hakes",
+      "link": "https://www.goodreads.com/book/show/232735601",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1753319237i/232735601.jpg",
+      "gr_id": "232735601"
+    },
+    {
+      "title": "Rebel English Academy",
+      "author": "Mohammed Hanif",
+      "link": "https://www.goodreads.com/book/show/234101021",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1756831554i/234101021.jpg",
+      "gr_id": "234101021"
+    },
+    {
+      "title": "The Legend of the Nine-Tailed Fox",
+      "author": "Katrina Kwan",
+      "link": "https://www.goodreads.com/book/show/235992696",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1749465511i/235992696.jpg",
+      "gr_id": "235992696"
+    },
+    {
+      "title": "The Girl with a Thousand Faces",
+      "author": "Sunyi Dean",
+      "link": "https://www.goodreads.com/book/show/240019948",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1759374641i/240019948.jpg",
+      "gr_id": "240019948"
+    },
+    {
+      "title": "The Obake Code",
+      "author": "Makana Yamamoto",
+      "link": "https://www.goodreads.com/book/show/234313856",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1758296764i/234313856.jpg",
+      "gr_id": "234313856"
+    },
+    {
+      "title": "Just Friends",
+      "author": "Haley Pham",
+      "link": "https://www.goodreads.com/book/show/235991978",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1754324295i/235991978.jpg",
+      "gr_id": "235991978"
+    },
+    {
+      "title": "Questions 27 & 28",
+      "author": "Karen Tei Yamashita",
+      "link": "https://www.goodreads.com/book/show/231387327",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1753499039i/231387327.jpg",
+      "gr_id": "231387327"
+    },
+    {
+      "title": "Celestial Lights",
+      "author": "Cecile Pin",
+      "link": "https://www.goodreads.com/book/show/232234360",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1750600163i/232234360.jpg",
+      "gr_id": "232234360"
+    },
+    {
+      "title": "Sakura",
+      "author": "Kanako Nishi",
+      "link": "https://www.goodreads.com/book/show/235672425",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1748952369i/235672425.jpg",
+      "gr_id": "235672425"
+    },
+    {
+      "title": "A Killer in the Family",
+      "author": "Amin Ahmad",
+      "link": "https://www.goodreads.com/book/show/231126949",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1748762665i/231126949.jpg",
+      "gr_id": "231126949"
+    },
+    {
+      "title": "Cleo Dang Would Rather Be Dead",
+      "author": "Mai  Nguyen",
+      "link": "https://www.goodreads.com/book/show/235992395",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1749394048i/235992395.jpg",
+      "gr_id": "235992395"
+    },
+    {
+      "title": "Ms. Mebel Goes Back to the Chopping Block",
+      "author": "Jesse Q. Sutanto",
+      "link": "https://www.goodreads.com/book/show/239433100",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1754019462i/239433100.jpg",
+      "gr_id": "239433100"
+    },
+    {
+      "title": "Double Happiness",
+      "author": "Heather  Eng",
+      "link": "https://www.goodreads.com/book/show/240381682",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1755658942i/240381682.jpg",
+      "gr_id": "240381682"
+    },
+    {
+      "title": "Everyday Movement",
+      "author": "Gigi L. Leung",
+      "link": "https://www.goodreads.com/book/show/233717203",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1753153466i/233717203.jpg",
+      "gr_id": "233717203"
+    },
+    {
+      "title": "Enemies to Lovers",
+      "author": "Alisha Rai",
+      "link": "https://www.goodreads.com/book/show/238179132",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1763140110i/238179132.jpg",
+      "gr_id": "238179132"
+    },
+    {
+      "title": "Flashlight",
+      "author": "Susan Choi",
+      "link": "https://www.goodreads.com/book/show/219743621",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1732124223i/219743621.jpg",
+      "gr_id": "219743621"
+    },
+    {
+      "title": "Mrs. Shim Is a Killer",
+      "author": "Kang Jiyoung",
+      "link": "https://www.goodreads.com/book/show/239132025",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1753100456i/239132025.jpg",
+      "gr_id": "239132025"
+    },
+    {
+      "title": "The Midnight Taxi",
+      "author": "Yosha Gunasekera",
+      "link": "https://www.goodreads.com/book/show/233717189",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1752113137i/233717189.jpg",
+      "gr_id": "233717189"
+    },
+    {
+      "title": "Greedy",
+      "author": "Callie Kazumi",
+      "link": "https://www.goodreads.com/book/show/234352794",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1750474720i/234352794.jpg",
+      "gr_id": "234352794"
+    },
+    {
+      "title": "Superfan",
+      "author": "Jenny Tinghui Zhang",
+      "link": "https://www.goodreads.com/book/show/231127415",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1750965879i/231127415.jpg",
+      "gr_id": "231127415"
+    },
+    {
+      "title": "Read Between the Lies",
+      "author": "Jesse Q. Sutanto",
+      "link": "https://www.goodreads.com/book/show/239827370",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1754768729i/239827370.jpg",
+      "gr_id": "239827370"
+    },
+    {
+      "title": "The Fourth Princess",
+      "author": "Janie Chang",
+      "link": "https://www.goodreads.com/book/show/234621445",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1750684941i/234621445.jpg",
+      "gr_id": "234621445"
+    },
+    {
+      "title": "Rings of Fate (Curses and Crowns, #1)",
+      "author": "Melissa de la Cruz",
+      "link": "https://www.goodreads.com/book/show/203938054",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1736865051i/203938054.jpg",
+      "gr_id": "203938054"
+    },
+    {
+      "title": "One & Only",
+      "author": "Maurene Goo",
+      "link": "https://www.goodreads.com/book/show/238872971",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1754537080i/238872971.jpg",
+      "gr_id": "238872971"
+    },
+    {
+      "title": "Burn the Sea",
+      "author": "Mona Tewari",
+      "link": "https://www.goodreads.com/book/show/238615737",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1752680360i/238615737.jpg",
+      "gr_id": "238615737"
+    },
+    {
+      "title": "The Killing Spell",
+      "author": "Shay Kauwe",
+      "link": "https://www.goodreads.com/book/show/224004023",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1738468202i/224004023.jpg",
+      "gr_id": "224004023"
+    },
+    {
+      "title": "That Which Feeds Us",
+      "author": "Keala Kendall",
+      "link": "https://www.goodreads.com/book/show/241675506",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1760640311i/241675506.jpg",
+      "gr_id": "241675506"
+    },
+    {
+      "title": "This Is Where the Serpent Lives",
+      "author": "Daniyal Mueenuddin",
+      "link": "https://www.goodreads.com/book/show/231363119",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1747104735i/231363119.jpg",
+      "gr_id": "231363119"
+    },
+    {
+      "title": "Missing Sam",
+      "author": "Thrity Umrigar",
+      "link": "https://www.goodreads.com/book/show/232884526",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1750211638i/232884526.jpg",
+      "gr_id": "232884526"
+    },
+    {
+      "title": "Minbak",
+      "author": "Ela Lee",
+      "link": "https://www.goodreads.com/book/show/235793220",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1759909547i/235793220.jpg",
+      "gr_id": "235793220"
+    },
+    {
+      "title": "Sisters in Yellow",
+      "author": "Mieko Kawakami",
+      "link": "https://www.goodreads.com/book/show/237693055",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1760100967i/237693055.jpg",
+      "gr_id": "237693055"
+    },
+    {
+      "title": "The Complex",
+      "author": "Karan Mahajan",
+      "link": "https://www.goodreads.com/book/show/236116680",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1754621632i/236116680.jpg",
+      "gr_id": "236116680"
+    },
+    {
+      "title": "The Emperor of Gladness",
+      "author": "Ocean Vuong",
+      "link": "https://www.goodreads.com/book/show/219848315",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1747142606i/219848315.jpg",
+      "gr_id": "219848315"
+    },
+    {
+      "title": "Bat Eater and Other Names for Cora Zeng",
+      "author": "Kylie Lee Baker",
+      "link": "https://www.goodreads.com/book/show/218185743",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1724867496i/218185743.jpg",
+      "gr_id": "218185743"
+    },
+    {
+      "title": "Katabasis",
+      "author": "R.F. Kuang",
+      "link": "https://www.goodreads.com/book/show/210191773",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1743527525i/210191773.jpg",
+      "gr_id": "210191773"
+    },
+    {
+      "title": "Vera Wong's Guide to Snooping [On a Dead Man] (Vera Won…",
+      "author": "Jesse Q. Sutanto",
+      "link": "https://www.goodreads.com/book/show/215805924",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1722635201i/215805924.jpg",
+      "gr_id": "215805924"
+    },
+    {
+      "title": "Julie Chan Is Dead",
+      "author": "Liann Zhang",
+      "link": "https://www.goodreads.com/book/show/220195725",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1728328060i/220195725.jpg",
+      "gr_id": "220195725"
+    },
+    {
+      "title": "Audition",
+      "author": "Katie Kitamura",
+      "link": "https://www.goodreads.com/book/show/216247518",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1722126296i/216247518.jpg",
+      "gr_id": "216247518"
+    },
+    {
+      "title": "The English Problem",
+      "author": "Beena Kamlani",
+      "link": "https://www.goodreads.com/book/show/212806722",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1718997233i/212806722.jpg",
+      "gr_id": "212806722"
+    },
+    {
+      "title": "Detective Aunty (Kausar Khan Investigates, #1)",
+      "author": "Uzma Jalaluddin",
+      "link": "https://www.goodreads.com/book/show/217223352",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1735510200i/217223352.jpg",
+      "gr_id": "217223352"
+    },
+    {
+      "title": "The Lotus Shoes",
+      "author": "Jane   Yang",
+      "link": "https://www.goodreads.com/book/show/213888716",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1716768475i/213888716.jpg",
+      "gr_id": "213888716"
+    },
+    {
+      "title": "Old Soul",
+      "author": "Susan  Barker",
+      "link": "https://www.goodreads.com/book/show/211178725",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1715801343i/211178725.jpg",
+      "gr_id": "211178725"
+    },
+    {
+      "title": "Break Room",
+      "author": "Miye Lee",
+      "link": "https://www.goodreads.com/book/show/241408957",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1758081175i/241408957.jpg",
+      "gr_id": "241408957"
+    },
+    {
+      "title": "Homeseeking",
+      "author": "Karissa Chen",
+      "link": "https://www.goodreads.com/book/show/223422252",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1736422714i/223422252.jpg",
+      "gr_id": "223422252"
+    },
+    {
+      "title": "Mỹ Documents",
+      "author": "Kevin  Nguyen",
+      "link": "https://www.goodreads.com/book/show/216247494",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1726084475i/216247494.jpg",
+      "gr_id": "216247494"
+    },
+    {
+      "title": "I Leave It Up to You",
+      "author": "Jinwoo Chong",
+      "link": "https://www.goodreads.com/book/show/214399236",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1719889851i/214399236.jpg",
+      "gr_id": "214399236"
+    },
+    {
+      "title": "The Family Recipe",
+      "author": "Carolyn Huynh",
+      "link": "https://www.goodreads.com/book/show/214208247",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1720031331i/214208247.jpg",
+      "gr_id": "214208247"
+    },
+    {
+      "title": "The Matchmaker",
+      "author": "Aisha Saeed",
+      "link": "https://www.goodreads.com/book/show/212806630",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1718997231i/212806630.jpg",
+      "gr_id": "212806630"
+    },
+    {
+      "title": "Our Beautiful Boys",
+      "author": "Sameer Pandya",
+      "link": "https://www.goodreads.com/book/show/214986231",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1726714280i/214986231.jpg",
+      "gr_id": "214986231"
+    },
+    {
+      "title": "Immaculate Conception",
+      "author": "Ling Ling Huang",
+      "link": "https://www.goodreads.com/book/show/217453576",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1728663685i/217453576.jpg",
+      "gr_id": "217453576"
+    },
+    {
+      "title": "Luminous",
+      "author": "Silvia Park",
+      "link": "https://www.goodreads.com/book/show/214151232",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1719941305i/214151232.jpg",
+      "gr_id": "214151232"
+    },
+    {
+      "title": "Disappoint Me",
+      "author": "Nicola Dinan",
+      "link": "https://www.goodreads.com/book/show/218153678",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1731337834i/218153678.jpg",
+      "gr_id": "218153678"
+    },
+    {
+      "title": "The Book of Records",
+      "author": "Madeleine Thien",
+      "link": "https://www.goodreads.com/book/show/218569917",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1729195173i/218569917.jpg",
+      "gr_id": "218569917"
+    },
+    {
+      "title": "Awake in the Floating City",
+      "author": "Susanna Kwan",
+      "link": "https://www.goodreads.com/book/show/217453585",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1723603173i/217453585.jpg",
+      "gr_id": "217453585"
+    },
+    {
+      "title": "Blob: A Love Story",
+      "author": "Maggie Su",
+      "link": "https://www.goodreads.com/book/show/212994452",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1721676545i/212994452.jpg",
+      "gr_id": "212994452"
+    },
+    {
+      "title": "Saltcrop",
+      "author": "Yume Kitasei",
+      "link": "https://www.goodreads.com/book/show/222376600",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1738165911i/222376600.jpg",
+      "gr_id": "222376600"
+    },
+    {
+      "title": "Immortal",
+      "author": "Sue Lynn Tan",
+      "link": "https://www.goodreads.com/book/show/211642122",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1723043112i/211642122.jpg",
+      "gr_id": "211642122"
+    },
+    {
+      "title": "Yours, Eventually",
+      "author": "Nura Maznavi",
+      "link": "https://www.goodreads.com/book/show/216522680",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1721764282i/216522680.jpg",
+      "gr_id": "216522680"
+    },
+    {
+      "title": "Water Moon",
+      "author": "Samantha Sotto Yambao",
+      "link": "https://www.goodreads.com/book/show/211479192",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1713235038i/211479192.jpg",
+      "gr_id": "211479192"
+    },
+    {
+      "title": "We Do Not Part",
+      "author": "Han Kang",
+      "link": "https://www.goodreads.com/book/show/205436018",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1714901866i/205436018.jpg",
+      "gr_id": "205436018"
+    },
+    {
+      "title": "The Phoenix Pencil Company",
+      "author": "Allison  King",
+      "link": "https://www.goodreads.com/book/show/220652184",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1748966900i/220652184.jpg",
+      "gr_id": "220652184"
+    },
+    {
+      "title": "Vanishing World",
+      "author": "Sayaka Murata",
+      "link": "https://www.goodreads.com/book/show/219300660",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1733963833i/219300660.jpg",
+      "gr_id": "219300660"
+    },
+    {
+      "title": "The South",
+      "author": "Tash Aw",
+      "link": "https://www.goodreads.com/book/show/217387871",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1731456163i/217387871.jpg",
+      "gr_id": "217387871"
+    },
+    {
+      "title": "The Original Daughter",
+      "author": "Jemimah Wei",
+      "link": "https://www.goodreads.com/book/show/217245582",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1723471651i/217245582.jpg",
+      "gr_id": "217245582"
+    },
+    {
+      "title": "Alchemised",
+      "author": "SenLinYu",
+      "link": "https://www.goodreads.com/book/show/222490389",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1737131981i/222490389.jpg",
+      "gr_id": "222490389"
+    },
+    {
+      "title": "The Loneliness of Sonia and Sunny",
+      "author": "Kiran Desai",
+      "link": "https://www.goodreads.com/book/show/222683974",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1754044242i/222683974.jpg",
+      "gr_id": "222683974"
+    },
+    {
+      "title": "Midnight Timetable: A Novel in Ghost Stories",
+      "author": "Bora Chung",
+      "link": "https://www.goodreads.com/book/show/223296389",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1743273023i/223296389.jpg",
+      "gr_id": "223296389"
+    },
+    {
+      "title": "Loved One",
+      "author": "Aisha Muharrar",
+      "link": "https://www.goodreads.com/book/show/221473262",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1733285753i/221473262.jpg",
+      "gr_id": "221473262"
+    },
+    {
+      "title": "Best Offer Wins",
+      "author": "Marisa Kashino",
+      "link": "https://www.goodreads.com/book/show/231126811",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1763994008i/231126811.jpg",
+      "gr_id": "231126811"
+    },
+    {
+      "title": "A Guardian and a Thief",
+      "author": "Megha Majumdar",
+      "link": "https://www.goodreads.com/book/show/232207672",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1760973092i/232207672.jpg",
+      "gr_id": "232207672"
+    },
+    {
+      "title": "What Hunger",
+      "author": "Catherine Dang",
+      "link": "https://www.goodreads.com/book/show/219445683",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1731964356i/219445683.jpg",
+      "gr_id": "219445683"
+    },
+    {
+      "title": "These Memories Do Not Belong to Us",
+      "author": "Yiming Ma",
+      "link": "https://www.goodreads.com/book/show/221452836",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1731410407i/221452836.jpg",
+      "gr_id": "221452836"
+    },
+    {
+      "title": "Moderation",
+      "author": "Elaine Castillo",
+      "link": "https://www.goodreads.com/book/show/221251742",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1733911236i/221251742.jpg",
+      "gr_id": "221251742"
+    },
+    {
+      "title": "Lightbreakers",
+      "author": "Aja Gabel",
+      "link": "https://www.goodreads.com/book/show/226743876",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1743562360i/226743876.jpg",
+      "gr_id": "226743876"
+    },
+    {
+      "title": "I'll Follow You",
+      "author": "Charlene Wang",
+      "link": "https://www.goodreads.com/book/show/234481515",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1747840877i/234481515.jpg",
+      "gr_id": "234481515"
+    },
+    {
+      "title": "The Satisfaction Café",
+      "author": "Kathy Wang",
+      "link": "https://www.goodreads.com/book/show/220160649",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1754867328i/220160649.jpg",
+      "gr_id": "220160649"
+    },
+    {
+      "title": "The Memory Hunters (The Consecrated, #1)",
+      "author": "Mia Tsai",
+      "link": "https://www.goodreads.com/book/show/219236780",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1738096341i/219236780.jpg",
+      "gr_id": "219236780"
+    },
+    {
+      "title": "Where Are You Really From",
+      "author": "Elaine Hsieh Chou",
+      "link": "https://www.goodreads.com/book/show/221754305",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1732767338i/221754305.jpg",
+      "gr_id": "221754305"
+    },
+    {
+      "title": "Wanting",
+      "author": "Claire Jia",
+      "link": "https://www.goodreads.com/book/show/220517410",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1731642556i/220517410.jpg",
+      "gr_id": "220517410"
+    },
+    {
+      "title": "Gingko Season",
+      "author": "Naomi Xu Elegant",
+      "link": "https://www.goodreads.com/book/show/218569834",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1732564202i/218569834.jpg",
+      "gr_id": "218569834"
+    },
+    {
+      "title": "Light and Thread",
+      "author": "Han Kang",
+      "link": "https://www.goodreads.com/book/show/230422844",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1763618663i/230422844.jpg",
+      "gr_id": "230422844"
+    },
+    {
+      "title": "Who We Are Becoming Matters: The Courage, Wisdom, and A…",
+      "author": "Norma Kaweloku Wong",
+      "link": "https://www.goodreads.com/book/show/233717430",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1754540595i/233717430.jpg",
+      "gr_id": "233717430"
+    },
+    {
+      "title": "We Mend with Gold: An Immigrant Daughter's Reckoning wi…",
+      "author": "Kristin T. Lee",
+      "link": "https://www.goodreads.com/book/show/235848745",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1749300362i/235848745.jpg",
+      "gr_id": "235848745"
+    },
+    {
+      "title": "Eat Bitter: A Story About Guts, and Food",
+      "author": "Lydia Pang",
+      "link": "https://www.goodreads.com/book/show/240490880",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1763467833i/240490880.jpg",
+      "gr_id": "240490880"
+    },
+    {
+      "title": "A Place for What We Lose: A Daughter's Return to Tule L…",
+      "author": "Tamiko Nimura",
+      "link": "https://www.goodreads.com/book/show/242215799",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1759200681i/242215799.jpg",
+      "gr_id": "242215799"
+    },
+    {
+      "title": "A Room in Bombay: A Memoir",
+      "author": "Manil Suri",
+      "link": "https://www.goodreads.com/book/show/233411607",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1751070362i/233411607.jpg",
+      "gr_id": "233411607"
+    },
+    {
+      "title": "Life After Ambition: A \"Good Enough\" Memoir",
+      "author": "Amil Niazi",
+      "link": "https://www.goodreads.com/book/show/235992837",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1749394006i/235992837.jpg",
+      "gr_id": "235992837"
+    },
+    {
+      "title": "The Other Side of Change: Who We Become When Life Makes…",
+      "author": "Maya Shankar",
+      "link": "https://www.goodreads.com/book/show/231404078",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1744941527i/231404078.jpg",
+      "gr_id": "231404078"
+    },
+    {
+      "title": "Strangers in the Land: Exclusion, Belonging, and the Ep…",
+      "author": "Michael Luo",
+      "link": "https://www.goodreads.com/book/show/217245552",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1723171852i/217245552.jpg",
+      "gr_id": "217245552"
+    },
+    {
+      "title": "Fetishized: A Reckoning with Yellow Fever, Feminism, an…",
+      "author": "Kaila Yu",
+      "link": "https://www.goodreads.com/book/show/221754280",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1735845977i/221754280.jpg",
+      "gr_id": "221754280"
+    },
+    {
+      "title": "Kuleana: A Story of Family, Land, and Legacy in Old Haw…",
+      "author": "Sara Kehaulani Goo",
+      "link": "https://www.goodreads.com/book/show/217388255",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1741708478i/217388255.jpg",
+      "gr_id": "217388255"
+    },
+    {
+      "title": "Asian/Other: Life, Poems, and the Problem of Memoir",
+      "author": "Vidyan Ravinthiran",
+      "link": "https://www.goodreads.com/book/show/213395485",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1726025470i/213395485.jpg",
+      "gr_id": "213395485"
+    },
+    {
+      "title": "Water Mirror Echo: Bruce Lee and the Making of Asian Am…",
+      "author": "Jeff Chang",
+      "link": "https://www.goodreads.com/book/show/222904071",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1753212312i/222904071.jpg",
+      "gr_id": "222904071"
+    },
+    {
+      "title": "Mother Mary Comes to Me",
+      "author": "Arundhati Roy",
+      "link": "https://www.goodreads.com/book/show/224004055",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1767714443i/224004055.jpg",
+      "gr_id": "224004055"
+    },
+    {
+      "title": "Bibliophobia",
+      "author": "Sarah Chihaya",
+      "link": "https://www.goodreads.com/book/show/212806663",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1721670620i/212806663.jpg",
+      "gr_id": "212806663"
+    },
+    {
+      "title": "Accidentally on Purpose",
+      "author": "Kristen Kish",
+      "link": "https://www.goodreads.com/book/show/218075335",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1725539591i/218075335.jpg",
+      "gr_id": "218075335"
+    },
+    {
+      "title": "Restaurant Kid: A Memoir of Family and Belonging",
+      "author": "Rachel Phan",
+      "link": "https://www.goodreads.com/book/show/214151670",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1730640085i/214151670.jpg",
+      "gr_id": "214151670"
+    },
+    {
+      "title": "Good Soil: The Education of an Accidental Farmhand",
+      "author": "Jeff Chu",
+      "link": "https://www.goodreads.com/book/show/215361966",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1725506566i/215361966.jpg",
+      "gr_id": "215361966"
+    },
+    {
+      "title": "Clam Down: A Metamorphosis",
+      "author": "Anelise Chen",
+      "link": "https://www.goodreads.com/book/show/218460348",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1732596170i/218460348.jpg",
+      "gr_id": "218460348"
+    },
+    {
+      "title": "Things in Nature Merely Grow",
+      "author": "Yiyun Li",
+      "link": "https://www.goodreads.com/book/show/221164555",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1740593371i/221164555.jpg",
+      "gr_id": "221164555"
+    },
+    {
+      "title": "Year of the Water Horse: A Memoir",
+      "author": "Janice Page",
+      "link": "https://www.goodreads.com/book/show/224003979",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1740933525i/224003979.jpg",
+      "gr_id": "224003979"
+    },
+    {
+      "title": "Firstborn: A Memoir",
+      "author": "Lauren  Christensen",
+      "link": "https://www.goodreads.com/book/show/214986210",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1731527800i/214986210.jpg",
+      "gr_id": "214986210"
+    },
+    {
+      "title": "The True Happiness Company: How a Girl Like Me Falls fo…",
+      "author": "Veena Dinavahi",
+      "link": "https://www.goodreads.com/book/show/215361994",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1729653615i/215361994.jpg",
+      "gr_id": "215361994"
+    },
+    {
+      "title": "Unassimilable: An Asian Diasporic Manifesto for the Twe…",
+      "author": "Bianca Mabute-Louie",
+      "link": "https://www.goodreads.com/book/show/211642057",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1724957764i/211642057.jpg",
+      "gr_id": "211642057"
+    }
+  ],
+  "source_urls": [
+    "https://www.goodreads.com/blog/show/3048?ref=gradp_aapiheritage"
+  ]
+}
