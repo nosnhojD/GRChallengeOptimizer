@@ -1,0 +1,554 @@
+{
+  "generated_at": "2026-05-18T01:15:51Z",
+  "season": {
+    "year": "2026",
+    "name": "Spring"
+  },
+  "name": "Summer Reading",
+  "source_url": "https://www.goodreads.com/blog/show/3094?ref=gradp_summerreading",
+  "book_count": 77,
+  "books": [
+    {
+      "title": "Margo's Got Money Troubles",
+      "author": "Rufi Thorpe",
+      "link": "https://www.goodreads.com/book/show/199796715",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1702504731i/199796715.jpg",
+      "gr_id": "199796715"
+    },
+    {
+      "title": "Project Hail Mary",
+      "author": "Andy Weir",
+      "link": "https://www.goodreads.com/book/show/240732259",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1758769674i/240732259.jpg",
+      "gr_id": "240732259"
+    },
+    {
+      "title": "Remarkably Bright Creatures",
+      "author": "Shelby Van Pelt",
+      "link": "https://www.goodreads.com/book/show/59710157",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1638033318i/59710157.jpg",
+      "gr_id": "59710157"
+    },
+    {
+      "title": "Hamnet",
+      "author": "Maggie O'Farrell",
+      "link": "https://www.goodreads.com/book/show/240643126",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1757647721i/240643126.jpg",
+      "gr_id": "240643126"
+    },
+    {
+      "title": "Wuthering Heights",
+      "author": "Emily Brontë",
+      "link": "https://www.goodreads.com/book/show/243803036",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1763428935i/243803036.jpg",
+      "gr_id": "243803036"
+    },
+    {
+      "title": "A Knight of the Seven Kingdoms (The Tales of Dunk and E…",
+      "author": "George R.R. Martin",
+      "link": "https://www.goodreads.com/book/show/242552236",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1760066734i/242552236.jpg",
+      "gr_id": "242552236"
+    },
+    {
+      "title": "The Testaments (The Handmaid's Tale, #2)",
+      "author": "Margaret Atwood",
+      "link": "https://www.goodreads.com/book/show/42975172",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1549292344i/42975172.jpg",
+      "gr_id": "42975172"
+    },
+    {
+      "title": "The Running Man",
+      "author": "Richard  Bachman",
+      "link": "https://www.goodreads.com/book/show/237828922",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1752766696i/237828922.jpg",
+      "gr_id": "237828922"
+    },
+    {
+      "title": "People We Meet on Vacation",
+      "author": "Emily Henry",
+      "link": "https://www.goodreads.com/book/show/55076069",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1773657247i/55076069.jpg",
+      "gr_id": "55076069"
+    },
+    {
+      "title": "H is for Hawk",
+      "author": "Helen Macdonald",
+      "link": "https://www.goodreads.com/book/show/24353103",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1420654541i/24353103.jpg",
+      "gr_id": "24353103"
+    },
+    {
+      "title": "The Stranger",
+      "author": "Albert Camus",
+      "link": "https://www.goodreads.com/book/show/49552",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1738704267i/49552.jpg",
+      "gr_id": "49552"
+    },
+    {
+      "title": "His & Hers",
+      "author": "Alice Feeney",
+      "link": "https://www.goodreads.com/book/show/45885495",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1595773166i/45885495.jpg",
+      "gr_id": "45885495"
+    },
+    {
+      "title": "Reminders of Him",
+      "author": "Colleen Hoover",
+      "link": "https://www.goodreads.com/book/show/231816096",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1765591964i/231816096.jpg",
+      "gr_id": "231816096"
+    },
+    {
+      "title": "Regretting You",
+      "author": "Colleen Hoover",
+      "link": "https://www.goodreads.com/book/show/44582454",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1760993353i/44582454.jpg",
+      "gr_id": "44582454"
+    },
+    {
+      "title": "Broken",
+      "author": "Don Winslow",
+      "link": "https://www.goodreads.com/book/show/48549741",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1582213625i/48549741.jpg",
+      "gr_id": "48549741"
+    },
+    {
+      "title": "Postmortem (Kay Scarpetta)",
+      "author": "Patricia Cornwell",
+      "link": "https://www.goodreads.com/book/show/240129935",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1769007799i/240129935.jpg",
+      "gr_id": "240129935"
+    },
+    {
+      "title": "Revenge Wears Prada: The Devil Returns (The Devil Wears…",
+      "author": "Lauren Weisberger",
+      "link": "https://www.goodreads.com/book/show/16130307",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1440180884i/16130307.jpg",
+      "gr_id": "16130307"
+    },
+    {
+      "title": "Finding Her Edge",
+      "author": "Jennifer Iacopelli",
+      "link": "https://www.goodreads.com/book/show/228690557",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1751643148i/228690557.jpg",
+      "gr_id": "228690557"
+    },
+    {
+      "title": "Heated Rivalry (Game Changers, #2)",
+      "author": "Rachel  Reid",
+      "link": "https://www.goodreads.com/book/show/220966494",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1764956889i/220966494.jpg",
+      "gr_id": "220966494"
+    },
+    {
+      "title": "The Seven Dials Mystery",
+      "author": "Agatha Christie",
+      "link": "https://www.goodreads.com/book/show/18882134",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1385095244i/18882134.jpg",
+      "gr_id": "18882134"
+    },
+    {
+      "title": "The Count of Monte Cristo",
+      "author": "Alexandre Dumas",
+      "link": "https://www.goodreads.com/book/show/8127528",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1328080999i/8127528.jpg",
+      "gr_id": "8127528"
+    },
+    {
+      "title": "An Offer From a Gentleman (Bridgertons, #3)",
+      "author": "Julia Quinn",
+      "link": "https://www.goodreads.com/book/show/59340141",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1761384978i/59340141.jpg",
+      "gr_id": "59340141"
+    },
+    {
+      "title": "The Last Thing He Told Me (Hannah Hall, #1)",
+      "author": "Laura Dave",
+      "link": "https://www.goodreads.com/book/show/54981009",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1603034599i/54981009.jpg",
+      "gr_id": "54981009"
+    },
+    {
+      "title": "The Housemaid",
+      "author": "Freida McFadden",
+      "link": "https://www.goodreads.com/book/show/241914792",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1758570613i/241914792.jpg",
+      "gr_id": "241914792"
+    },
+    {
+      "title": "Vladimir",
+      "author": "Julia May Jonas",
+      "link": "https://www.goodreads.com/book/show/57846324",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1641411420i/57846324.jpg",
+      "gr_id": "57846324"
+    },
+    {
+      "title": "Imperfect Women",
+      "author": "Araminta Hall",
+      "link": "https://www.goodreads.com/book/show/51335230",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1581884945i/51335230.jpg",
+      "gr_id": "51335230"
+    },
+    {
+      "title": "The Enchanted Wood",
+      "author": "Enid Blyton",
+      "link": "https://www.goodreads.com/book/show/247050698",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1769635314i/247050698.jpg",
+      "gr_id": "247050698"
+    },
+    {
+      "title": "The Hunting Wives",
+      "author": "May Cobb",
+      "link": "https://www.goodreads.com/book/show/56276432",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1753366137i/56276432.jpg",
+      "gr_id": "56276432"
+    },
+    {
+      "title": "One Piece, Vol. 1: Romance Dawn",
+      "author": "Eiichiro Oda",
+      "link": "https://www.goodreads.com/book/show/19007070",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1572272554i/19007070.jpg",
+      "gr_id": "19007070"
+    },
+    {
+      "title": "Cold Storage",
+      "author": "David Koepp",
+      "link": "https://www.goodreads.com/book/show/52331718",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1770309795i/52331718.jpg",
+      "gr_id": "52331718"
+    },
+    {
+      "title": "Shift (Silo, #2)",
+      "author": "Hugh Howey",
+      "link": "https://www.goodreads.com/book/show/17306293",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1379003176i/17306293.jpg",
+      "gr_id": "17306293"
+    },
+    {
+      "title": "The House of the Spirits",
+      "author": "Isabel Allende",
+      "link": "https://www.goodreads.com/book/show/242147368",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1759001111i/242147368.jpg",
+      "gr_id": "242147368"
+    },
+    {
+      "title": "Go Tell the Bees That I Am Gone (Outlander, #9)",
+      "author": "Diana Gabaldon",
+      "link": "https://www.goodreads.com/book/show/57699848",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1618500168i/57699848.jpg",
+      "gr_id": "57699848"
+    },
+    {
+      "title": "Vineland (The inspiration for One Battle After Another)",
+      "author": "Thomas Pynchon",
+      "link": "https://www.goodreads.com/book/show/19189189",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1386198092i/19189189.jpg",
+      "gr_id": "19189189"
+    },
+    {
+      "title": "Train Dreams",
+      "author": "Denis Johnson",
+      "link": "https://www.goodreads.com/book/show/12991188",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1747752588i/12991188.jpg",
+      "gr_id": "12991188"
+    },
+    {
+      "title": "The Long Walk",
+      "author": "Richard  Bachman",
+      "link": "https://www.goodreads.com/book/show/234382975",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1750280068i/234382975.jpg",
+      "gr_id": "234382975"
+    },
+    {
+      "title": "The Woman in Cabin 10 (Lo Blacklock #1)",
+      "author": "Ruth Ware",
+      "link": "https://www.goodreads.com/book/show/233770059",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1754062442i/233770059.jpg",
+      "gr_id": "233770059"
+    },
+    {
+      "title": "Mickey7 (Mickey7, #1)",
+      "author": "Edward Ashton",
+      "link": "https://www.goodreads.com/book/show/212900322",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1730240771i/212900322.jpg",
+      "gr_id": "212900322"
+    },
+    {
+      "title": "The Thursday Murder Club (Thursday Murder Club #1)",
+      "author": "Richard Osman",
+      "link": "https://www.goodreads.com/book/show/231936454",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1754010861i/231936454.jpg",
+      "gr_id": "231936454"
+    },
+    {
+      "title": "If It Bleeds (Holly Gibney #2)",
+      "author": "Stephen  King",
+      "link": "https://www.goodreads.com/book/show/46015758",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1571399830i/46015758.jpg",
+      "gr_id": "46015758"
+    },
+    {
+      "title": "I Know What You Did Last Summer",
+      "author": "Lois Duncan",
+      "link": "https://www.goodreads.com/book/show/52879412",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1568302677l/52879412.jpg",
+      "gr_id": "52879412"
+    },
+    {
+      "title": "We Were Liars",
+      "author": "E. Lockhart",
+      "link": "https://www.goodreads.com/book/show/39673241",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1752679021i/39673241.jpg",
+      "gr_id": "39673241"
+    },
+    {
+      "title": "Washington Black",
+      "author": "Esi Edugyan",
+      "link": "https://www.goodreads.com/book/show/55170243",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1598800249i/55170243.jpg",
+      "gr_id": "55170243"
+    },
+    {
+      "title": "Caught Stealing (Hank Thompson, #1)",
+      "author": "Charlie Huston",
+      "link": "https://www.goodreads.com/book/show/232771797",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1746300204i/232771797.jpg",
+      "gr_id": "232771797"
+    },
+    {
+      "title": "Long Bright River",
+      "author": "Liz    Moore",
+      "link": "https://www.goodreads.com/book/show/43834909",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1555616163i/43834909.jpg",
+      "gr_id": "43834909"
+    },
+    {
+      "title": "Sunrise on the Reaping (The Hunger Games, #0.5)",
+      "author": "Suzanne Collins",
+      "link": "https://www.goodreads.com/book/show/214331246",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1729085500i/214331246.jpg",
+      "gr_id": "214331246"
+    },
+    {
+      "title": "The Odyssey",
+      "author": "Homer",
+      "link": "https://www.goodreads.com/book/show/34068470",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1487351579i/34068470.jpg",
+      "gr_id": "34068470"
+    },
+    {
+      "title": "The Deal (Off-Campus, #1)",
+      "author": "Elle Kennedy",
+      "link": "https://www.goodreads.com/book/show/246648060",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1774008631i/246648060.jpg",
+      "gr_id": "246648060"
+    },
+    {
+      "title": "Verity",
+      "author": "Colleen Hoover",
+      "link": "https://www.goodreads.com/book/show/59336248",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1634041284i/59336248.jpg",
+      "gr_id": "59336248"
+    },
+    {
+      "title": "Every Summer After",
+      "author": "Carley Fortune",
+      "link": "https://www.goodreads.com/book/show/60026536",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1641279566i/60026536.jpg",
+      "gr_id": "60026536"
+    },
+    {
+      "title": "Lord of the Flies",
+      "author": "William Golding",
+      "link": "https://www.goodreads.com/book/show/244718309",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1775618294i/244718309.jpg",
+      "gr_id": "244718309"
+    },
+    {
+      "title": "The Dog Stars: The hope-filled story of a world changed…",
+      "author": "Peter Heller",
+      "link": "https://www.goodreads.com/book/show/18872154",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1384968705i/18872154.jpg",
+      "gr_id": "18872154"
+    },
+    {
+      "title": "Dune Messiah (Dune, #2)",
+      "author": "Frank Herbert",
+      "link": "https://www.goodreads.com/book/show/8117883",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1576121841i/8117883.jpg",
+      "gr_id": "8117883"
+    },
+    {
+      "title": "The Bodyguard",
+      "author": "Katherine Center",
+      "link": "https://www.goodreads.com/book/show/58724801",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1637059607i/58724801.jpg",
+      "gr_id": "58724801"
+    },
+    {
+      "title": "Sense and Sensibility",
+      "author": "Jane Austen",
+      "link": "https://www.goodreads.com/book/show/14935",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1397245675i/14935.jpg",
+      "gr_id": "14935"
+    },
+    {
+      "title": "The Magician's Nephew (The Chronicles of Narnia Book 1)",
+      "author": "C.S. Lewis",
+      "link": "https://www.goodreads.com/book/show/209133298",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1708858114i/209133298.jpg",
+      "gr_id": "209133298"
+    },
+    {
+      "title": "The Five-Star Weekend",
+      "author": "Elin Hilderbrand",
+      "link": "https://www.goodreads.com/book/show/62921348",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1671620233i/62921348.jpg",
+      "gr_id": "62921348"
+    },
+    {
+      "title": "Cape Fear",
+      "author": "John D. MacDonald",
+      "link": "https://www.goodreads.com/book/show/37799979",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1514931872i/37799979.jpg",
+      "gr_id": "37799979"
+    },
+    {
+      "title": "Three Bags Full (The Sheep Detectives Movie Tie-in Edit…",
+      "author": "Leonie Swann",
+      "link": "https://www.goodreads.com/book/show/247726892",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1770698083i/247726892.jpg",
+      "gr_id": "247726892"
+    },
+    {
+      "title": "The Book of Magic (Practical Magic, #2)",
+      "author": "Alice Hoffman",
+      "link": "https://www.goodreads.com/book/show/56898179",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1631120142i/56898179.jpg",
+      "gr_id": "56898179"
+    },
+    {
+      "title": "Carrie",
+      "author": "Stephen  King",
+      "link": "https://www.goodreads.com/book/show/228158106",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1739971429i/228158106.jpg",
+      "gr_id": "228158106"
+    },
+    {
+      "title": "Incidents Around the House",
+      "author": "Josh Malerman",
+      "link": "https://www.goodreads.com/book/show/199757490",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1704742096i/199757490.jpg",
+      "gr_id": "199757490"
+    },
+    {
+      "title": "Girls Like Girls",
+      "author": "Hayley Kiyoko",
+      "link": "https://www.goodreads.com/book/show/61885082",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1678220209i/61885082.jpg",
+      "gr_id": "61885082"
+    },
+    {
+      "title": "Animal Farm",
+      "author": "George Orwell",
+      "link": "https://www.goodreads.com/book/show/156698496",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1684384878i/156698496.jpg",
+      "gr_id": "156698496"
+    },
+    {
+      "title": "Klara and the Sun",
+      "author": "Kazuo Ishiguro",
+      "link": "https://www.goodreads.com/book/show/54120408",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1603206535i/54120408.jpg",
+      "gr_id": "54120408"
+    },
+    {
+      "title": "The Love Hypothesis",
+      "author": "Ali Hazelwood",
+      "link": "https://www.goodreads.com/book/show/56732449",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1747519081i/56732449.jpg",
+      "gr_id": "56732449"
+    },
+    {
+      "title": "East of Eden",
+      "author": "John Steinbeck",
+      "link": "https://www.goodreads.com/book/show/55378851",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1621953646i/55378851.jpg",
+      "gr_id": "55378851"
+    },
+    {
+      "title": "Little House in the Big Woods (Little House, #1)",
+      "author": "Laura Ingalls Wilder",
+      "link": "https://www.goodreads.com/book/show/8337",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1743630755i/8337.jpg",
+      "gr_id": "8337"
+    },
+    {
+      "title": "Good Girl, Bad Blood (A Good Girl's Guide to Murder, #2…",
+      "author": "Holly  Jackson",
+      "link": "https://www.goodreads.com/book/show/54631738",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1599216917i/54631738.jpg",
+      "gr_id": "54631738"
+    },
+    {
+      "title": "You Deserve Each Other (You Deserve Each Other, #1)",
+      "author": "Sarah Hogle",
+      "link": "https://www.goodreads.com/book/show/50027029",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1578144336i/50027029.jpg",
+      "gr_id": "50027029"
+    },
+    {
+      "title": "The Husbands",
+      "author": "Holly Gramazio",
+      "link": "https://www.goodreads.com/book/show/193781998",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1713373397i/193781998.jpg",
+      "gr_id": "193781998"
+    },
+    {
+      "title": "Fire & Blood (A Targaryen History, #1)",
+      "author": "George R.R. Martin",
+      "link": "https://www.goodreads.com/book/show/216439581",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1720866609i/216439581.jpg",
+      "gr_id": "216439581"
+    },
+    {
+      "title": "Wildwood (Wildwood Chronicles, #1)",
+      "author": "Colin Meloy",
+      "link": "https://www.goodreads.com/book/show/11106405",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1328329180i/11106405.jpg",
+      "gr_id": "11106405"
+    },
+    {
+      "title": "It Happened One Summer (Bellinger Sisters, #1)",
+      "author": "Tessa Bailey",
+      "link": "https://www.goodreads.com/book/show/55659629",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1604991895i/55659629.jpg",
+      "gr_id": "55659629"
+    },
+    {
+      "title": "The Vampire Lestat (The Vampire Chronicles, #2)",
+      "author": "Anne Rice",
+      "link": "https://www.goodreads.com/book/show/9741769",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1462731000i/9741769.jpg",
+      "gr_id": "9741769"
+    },
+    {
+      "title": "The Good Daughter (The Good Daughter, #1)",
+      "author": "Karin Slaughter",
+      "link": "https://www.goodreads.com/book/show/33406197",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1490734108i/33406197.jpg",
+      "gr_id": "33406197"
+    },
+    {
+      "title": "I Will Find You",
+      "author": "Harlan Coben",
+      "link": "https://www.goodreads.com/book/show/61392437",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1657046919i/61392437.jpg",
+      "gr_id": "61392437"
+    }
+  ],
+  "source_urls": [
+    "https://www.goodreads.com/blog/show/3094?ref=gradp_summerreading"
+  ]
+}
