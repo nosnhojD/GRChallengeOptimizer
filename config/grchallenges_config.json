@@ -62,20 +62,20 @@
     "release_date": "2026-05-01"
   },
    {
-    "enabled": false,
-    "name": "Swoony Stories",
-    "url": "https://www.goodreads.com/blog/show/3049?ref=gradp_swoonystories",
-    "expected_min": 130,
-    "expected_max": 160,
-    "release_date": "2026-02-01"
+    "enabled": true,
+    "name": "Summer Reading",
+    "url": "https://www.goodreads.com/blog/show/3094?ref=gradp_summerreading",
+    "expected_min": 70,
+    "expected_max": 100,
+    "release_date": "2026-05-11"
   },
    {
-    "enabled": false,
-    "name": "Persona Picks",
-    "url": "https://www.goodreads.com/blog/show/3050?ref=gradp_personapicks",
-    "expected_min": 120,
-    "expected_max": 150,
-    "release_date": "2026-02-15"
+    "enabled": true,
+    "name": "Escapist Reads",
+    "url": "https://www.goodreads.com/blog/show/3095?ref=gradp_escapistreads",
+    "expected_min": 100,
+    "expected_max": 130,
+    "release_date": "2026-05-15"
   },
   {
     "enabled": false,

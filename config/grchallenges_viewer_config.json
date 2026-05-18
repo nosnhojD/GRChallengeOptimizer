@@ -89,8 +89,24 @@
           "name": "AAPI Heritage",
           "icon_url": "https://m.media-amazon.com/images/G/01/RC/Goodreads2026SpringSeasonalChallenge_AAPIHeritage_c39522f4-51b3-4357-beae-865d2980fa70.png",
           "goodreads_url": "https://www.goodreads.com/readingchallenges/achievements/dp/be031545-001e-4e91-a5cb-71bef4c726fc",
-          "artifact_name_match": "AAPI Heritage"
+          "artifact_name_match": "AAPI Heritage"},
+        {
+          "id": "spring26_Summer_Reading",
+          "type": "book_list",
+          "name": "Summer Reading",
+          "icon_url": "https://m.media-amazon.com/images/G/01/RC/Goodreads2026SpringSeasonalChallenge_SummerReading_b08f3027-54c9-4211-a016-963764885f29.png",
+          "goodreads_url": "https://www.goodreads.com/readingchallenges/achievements/dp/f8faffee-289b-41fb-80a3-78f5af021378",
+          "artifact_name_match": "Summer Reading"
+        },
+        {
+          "id": "spring26_Escapist_Reads",
+          "type": "book_list",
+          "name": "Escapist Reads",
+          "icon_url": "https://m.media-amazon.com/images/G/01/RC/Goodreads2026SpringSeasonalChallenge_AAPIHeritage_c39522f4-51b3-4357-beae-865d2980fa70.png",
+          "goodreads_url": "https://www.goodreads.com/readingchallenges/achievements/dp/8f2b3fd2-d0fe-439c-8ea8-f4fe4ac59e99",
+          "artifact_name_match": "Escapist Reads"
         }
+        
         
       ]
     }
